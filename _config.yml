@@ -1,0 +1,6 @@
+theme: minima
+title: MLIR Seasonal Schools
+
+header_pages:
+  - index.md
+  - about.md
