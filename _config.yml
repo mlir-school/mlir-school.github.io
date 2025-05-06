@@ -1,5 +1,11 @@
-theme: minima
 title: MLIR Seasonal Schools
+
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+
+include:
+  - _pages
 
 header_pages:
   - index.md
