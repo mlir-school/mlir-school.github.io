@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Cambridge 2025"
+    url: /cambridge2025/
+  - title: "Registration"
+    url: /registration/
+  - title: "Past editions"
+    url: /past_editions/
+  - title: "Organization"
+    url: /organization/
