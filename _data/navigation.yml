@@ -1,11 +1,13 @@
 main:
   - title: "Home"
     url: /
-  - title: "Cambridge 2025"
-    url: /cambridge2025/
+  - title: "Program"
+    url: /program/
+  - title: "Call for talks"
+    url: /call/
   - title: "Registration"
     url: /registration/
-  - title: "Past editions"
+  - title: "Previous events"
     url: /past_editions/
   - title: "Organization"
     url: /organization/
