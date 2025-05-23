@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "The MLIR seasonal schools"
+title: "MLIR Compiler School and Workshop - Sep 8-12 2025, Cambridge"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -11,42 +11,22 @@ header:
 excerpt: "Be part of it!"
 intro:
   - excerpt: 'Voici un exemple de.'
-feature_row_conf:
-  - image_path: /images/school2.png
-    alt: "Hands-on courses"
-    title: "Hands-on courses"
-    excerpt: "Discover MLIR by jumping straight into the IR and compiler infrastructure with our introductory course!"
-  - image_path: /images/school1.png
-    alt: "World-class talks"
-    title: "World-class talks"
-    excerpt: "Join presentations delivered by renowned international experts in the field!"
-  - image_path: /images/school3.png
-    alt: "Parallel expert-oriented tracks"
-    title: "Parallel thematic tracks"
-    excerpt: "Connect with your community in parallel sessions on scheduling languages, verified compilation, or compiler backends!"
-feature_row_robinson:
+feature_row_overview:
   - image_path: /images/robinson1.png
     alt: "Discover Robinson College"
     title: "Discover Robinson College"
-    excerpt: "A warm and inviting college, perfectly situated between downtown and the CS department, boasting beautiful gardens in the fall!"
-  - image_path: /images/robinson2.png
-    alt: "A SotA conference building"
-    title: "A SotA conference building"
-    excerpt: "Crausaz Wordsworth Building: a spacious, fully equipped hall for talks, along with smaller rooms for group work."
-  - image_path: /images/robinson3.png
-    alt: "Full-board accomodation"
-    title: "Full-board accomodation"
-    excerpt: "Enjoy the full experience by staying and dining at the college, just steps away from the conference room!!"
+    excerpt: "Enjoy full-board accommodation in the welcoming atmosphere of Robinson College—ideally located between the historic city center and the Computer Science Department. With its stunning autumn gardens, peaceful setting and fully-equiped conference building, **it’s the perfect place to focus, connect, and learn**."
+  - image_path: /images/school2b.png
+    alt: "Hands-on courses"
+    title: "Hands-on courses"
+    excerpt: "Start your journey with MLIR by diving directly into its core concepts and infrastructure. Our introductory course will guide you through the fundamentals of SSA, operator lowering, and dialect definition. By the end, **these essential building blocks will no longer be mysteries**—they’ll be tools you’re ready to use with confidence."
+  - image_path: /images/school1b.png
+    alt: "Expert-oriented talks"
+    title: "Expert-oriented talks"
+    excerpt: "Compiler technology is evolving rapidly, opening up thrilling frontiers—from **scheduling languages** and **formal methods** to **hardware verification** and **cutting-edge backend development**. Our lineup of invited talks brings together leading experts from academia and industry. Gain insights into the latest research and real-world applications!"
 ---
 
-# 🚀 Getting your foot in the door
+MLIR is redefining the landscape of compiler technology. In just a few years, it has seen widespread adoption across academia and industry, establishing itself as a shared infrastructure and a de facto standard in many domains. Its modular, extensible design is enabling the next generation of tools and research to thrive on top of a solid, reliable foundation. **Take this chance to get started: join us at Robinson College in Cambridge, from September 8 to 12!**
 
-In recent years, MLIR-based compilers have seen widespread adoption in both academia and industry. MLIR has become a *de facto* standard in many sectors and a shared compiler infrastructure, allowing new projects to build upon sound and reliable existing solutions. The seasonal schools aim to facilitate the discovery and adoption of this growing, dynamic and innovative software ecosystem. 
+{% include feature_row id="feature_row_overview" %}
 
-{% include feature_row id="feature_row_conf" %}
-
-# 🇬🇧 See you in Cambridge, from September 8 to 12!
-
-After Paris last January, the next edition of the MLIR school will take place in Cambridge, from September 8 to 12. We’ll be hosted in the welcoming setting of Robinson College, known for its vibrant scientific community, red brick architecture, and beautiful gardens 😉
-
-{% include feature_row id="feature_row_robinson" %}
