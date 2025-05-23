@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: "MLIR Compiler School and Workshop - Sep 8-12 2025, Cambridge"
+excerpt: "Be part of it!"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -8,7 +9,6 @@ header:
   actions:
     - label: "Registration"
       url: "/registration/"
-excerpt: "Be part of it!"
 intro:
   - excerpt: 'Voici un exemple de.'
 feature_row_overview:
