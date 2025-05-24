@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "MLIR Compiler School and Workshop - Sep 8-12 2025, Cambridge"
-excerpt: "Be part of it!"
+title: "MLIR Compiler School and Workshop"
+excerpt: "Sep 8-12 2025, Cambridge"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
