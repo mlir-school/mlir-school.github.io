@@ -29,7 +29,7 @@ feature_row_overview:
 
 MLIR is revolutionizing compiler technology! In just a few years, MLIR has established itself as a de facto standard for AI, EDA, quantum computing, and crypto compilers. The resulting many-domain ecosystem is of unseen size and diversity, creating exciting opportunities for formal verification or the use of AI for compilers. We need high-bandwidth communication for efficient cross-domain collaboration that welcomes new community members to push MLIR forward.
 
-We **bring together MLIR experts, application specialists, and students** to accelerate MLIR innovation by offering a unique pairing of newcomer-friendly foundational courses with dynamic, expert-lead, interactive workshops offering high-bandwidth communication across stakeholders.
+We **bring together MLIR experts, application specialists, and students** to accelerate MLIR innovation offering a unique pairing of newcomer-friendly foundational courses with dynamic, expert-lead, interactive workshops to enable high-bandwidth communication across stakeholders.
 
 {% include feature_row id="feature_row_overview" %}
 
