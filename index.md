@@ -26,7 +26,17 @@ feature_row_overview:
     excerpt: "Compiler technology is evolving rapidly, opening up thrilling frontiers—from **scheduling languages** and **formal methods** to **hardware verification** and **cutting-edge backend development**. Our lineup of invited talks brings together leading experts from academia and industry. Gain insights into the latest research and real-world applications!"
 ---
 
-MLIR is redefining the landscape of compiler technology. In just a few years, it has seen widespread adoption across academia and industry, establishing itself as a shared infrastructure and a de facto standard in many domains. Its modular, extensible design is enabling the next generation of tools and research to thrive on top of a solid, reliable foundation. **Take this chance to get started: join us at Robinson College in Cambridge, from September 8 to 12!**
+
+Fast evolving compilers crafted for AI, electronic design automation, quantum computing, crypto and more fuel today's highest-impact application domains.
+MLIR is at the core of this revolution.
+In just a few years, it has been widely adopted across academia and industry, establishing itself as a shared infrastructure and a de facto standard in many domains. Its modular, extensible design is enabling the next generation of tools and research to thrive on top of a solid, reliable foundation.
+
+MLIR offers a many-domain ecosystem larger and more diverse than seen in pre-existing compiler frameworks, creating exciting opportunities for formal verification or the use of AI for compilers across many of these domains.
+
+As the MLIR ecosystem expands, high-bandwidth communication across domains is critical to enable efficient collaboration among key stakeholders and to empower new community members to take on projects that push MLIR's innovation boundaries forward.
+
+The Cambridge MLIR Summer School and Workshop brings together core MLIR stakeholders, application domain-experts, and curious young students to align interests and kick-off MLIR collaboration and innovation projects for the next year(s). We achieve this by offering a unique pariing of newcomer friendly foundational courses with dynamically scheduled, expert-lead, highly-interactive workshops aimed at enabling high-bandwidth
+communication across key stakeholders.
 
 {% include feature_row id="feature_row_overview" %}
 
