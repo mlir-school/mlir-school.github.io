@@ -3,10 +3,8 @@ main:
     url: /
   - title: "Program"
     url: /program/
-  - title: "Call for talks"
-    url: /call/
-  - title: "Registration"
-    url: /registration/
+  - title: "Application"
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSc1tykepjxHuOxiTKlx60e-mejKZABNipmEtSix5AjtNWosJA/viewform?usp=dialog"
   - title: "Previous events"
     url: /past_editions/
   - title: "Organization"
