@@ -23,7 +23,8 @@ feature_row_overview:
   - image_path: /images/school1b.png
     alt: "Expert Collaboraton"
     title: "Expert Collaboration"
-    excerpt: "MLIR empowers experts to build cross-domain software. At the summer school, we will focus on several expert domains to support community alignment in the areas of **scheduling languages**, **formal methods**, **hardware verification**, **quantum computing**, **crypto** and **AI**.
+    excerpt: "MLIR empowers experts to build cross-domain software. At the summer school, we will focus on several expert domains to support community alignment in the areas of
+**scheduling languages**, **formal methods**, **hardware verification**, **quantum computing**, **crypto** and **AI**."
 ---
 
 
