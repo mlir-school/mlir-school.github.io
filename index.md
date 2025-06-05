@@ -15,7 +15,7 @@ feature_row_overview:
   - image_path: /images/robinson1.png
     alt: "Robinson College"
     title: "Robinson College"
-    excerpt: "Enjoy full-board accommodation in the welcoming atmosphere of Robinson College—ideally located between the historic city center and the Computer Science Department. With its stunning gardens, peaceful setting and fully-equiped conference building, a place **perfect to focus, connect, and learn**."
+    excerpt: "Enjoy full-board accommodation in the welcoming atmosphere of Robinson College—ideally located between the historic city center and the Computer Science Department. With its stunning gardens, peaceful setting and fully-equiped conference building, its a place **perfect to focus, connect, and learn**."
   - image_path: /images/school2b.png
     alt: "Hands-on Courses"
     title: "Hands-on Courses"
