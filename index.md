@@ -21,9 +21,9 @@ feature_row_overview:
     title: "Hands-on Courses"
     excerpt: "Start your journey with MLIR by diving into its core concepts and infrastructure. Our course will guide you through the fundamentals of SSA, operator lowering, and dialect definition. By the end, these essential building blocks will no longer be mysteries. Instead, you will **design MLIR compilers with confidence**."
   - image_path: /images/school1b.png
-    alt: "Connect & Collaborate"
-    title: "Connect & Collaborate"
-    excerpt: "Compiler technology is evolving rapidly, opening up thrilling frontiers—from **scheduling languages** and **formal methods** to **hardware verification** and **cutting-edge backend development**. Our lineup of invited talks brings together leading experts from academia and industry. Gain insights into the latest research and real-world applications!"
+    alt: "Expert Collaboraton"
+    title: "Expert Collaboration"
+    excerpt: "MLIR empowers experts to build cross-domain software. At the summer school, we will focus on several expert domains to support community alignment in the areas of **scheduling languages**, **formal methods**, **hardware verification**, **quantum computing**, **crypto** and **AI**.
 ---
 
 
