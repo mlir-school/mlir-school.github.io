@@ -7,8 +7,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /images/Autumn_Cam.png
   actions:
-    - label: "Registration"
-      url: "/registration/"
+    - label: "Apply"
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSc1tykepjxHuOxiTKlx60e-mejKZABNipmEtSix5AjtNWosJA/viewform"
 intro:
   - excerpt: 'Voici un exemple de.'
 feature_row_overview:
