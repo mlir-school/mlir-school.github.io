@@ -9,10 +9,6 @@ toc_sticky: true
 
 *This page provides an overview of past editions of the MLIR school. It will be updated periodically. When teaching materials are available, they can be accessed by clicking on the corresponding course title.*
 
-# 🇬🇧 2025 Cambridge Summer School
-
-*Still to come.*
-
 # 🇫🇷 2025 Paris Winter School
 
 *In recent years, MLIR-based compilers have seen widespread adoption in both academia and industry. MLIR has become a de facto standard in many sectors and a shared compiler infrastructure, allowing new projects to build upon sound and reliable existing solutions. This winter school aims to facilitate the discovery and adoption of this growing, dynamic and innovative software ecosystem.*
