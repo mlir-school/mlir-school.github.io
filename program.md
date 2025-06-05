@@ -1,4 +1,5 @@
 ---
+layout: splash
 layout: single
 title: "Program"
 permalink: /program/
@@ -11,12 +12,14 @@ parallel to the introductory courses on MLIR. The final day will be dedicated
 to a compilation community workshop, providing an opportunity to share and
 discuss the latest research breakthroughs.*
 
-# Monday-Thursday, September 8-11, 2025
+# Monday-Thursday | Sep 8-11, 2025
 
-MLIR School and Workshop (school attendees only)
+MLIR School and Workshop
 
-(details to follow)
+(school attendees only)
 
-# Friday, September 12, 2025
+# Friday | Sep 12, 2025
 
-MLIR Compilation Community Workshop (school attendees and external community members)
+MLIR Compilation Community Workshop
+
+(school attendees and external community members)
