@@ -23,7 +23,7 @@ feature_row_overview:
   - image_path: /images/school1b.png
     alt: "Expert Collaboraton"
     title: "Expert Collaboration"
-    excerpt: "MLIR empowers experts across domains! Our interactive mini workshops, provide for expert collaboration across **scheduling languages**, **formal methods**, **hardware verification**, **quantum computing**, **crypto** and **AI**."
+    excerpt: "MLIR empowers experts across domains! Our interactive mini workshops enable expert collaboration across **scheduling languages**, **formal methods**, **hardware verification**, **quantum computing**, **crypto** and **AI**." Join us to shape the MLIR community for your domain.
 ---
 
 
