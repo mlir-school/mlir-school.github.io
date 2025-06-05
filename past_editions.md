@@ -7,7 +7,7 @@ toc_label: "Overview"
 toc_sticky: true
 ---
 
-*This page provides an overview of past editions of the MLIR school. It will be updated periodically. When teaching materials are available, they can be accessed by clicking on the corresponding course title.*
+*This page provides an overview of past editions of the MLIR school. When teaching materials are available, they can be accessed by clicking on the corresponding course title.*
 
 # 🇫🇷 2025 Paris Winter School
 
