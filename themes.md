@@ -4,7 +4,7 @@ title: "Expert Themes"
 permalink: /themes/
 ---
 
-The MLIR summer school focus themse are expert areas where we bring key stakeholders together, go into technical depth, and make forward progress technically and as a community.
+Our expert themes, we bring key stakeholders together, go into technical depth, and make forward progress technically and as a community.
 
 **Cryptography, Crypto-IRs, and Crypto-Aware Design**
 
