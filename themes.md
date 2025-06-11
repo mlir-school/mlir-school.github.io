@@ -4,7 +4,7 @@ title: "Expert Themes"
 permalink: /themes/
 ---
 
-Our expert themes, we bring key stakeholders together, go into technical depth, and make forward progress technically and as a community.
+We bring key stakeholders together, go into technical depth, and make forward progress technically and as a community on our expert themes.
 
 **Cryptography, Crypto-IRs, and Crypto-Aware Design**
 
