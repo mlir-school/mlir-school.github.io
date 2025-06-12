@@ -3,4 +3,7 @@ title: MLIR Compiler School
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
+atom_feed:
+  hide: true
+    
 
