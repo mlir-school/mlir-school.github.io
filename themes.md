@@ -20,6 +20,12 @@ Prior modeling efforts, primarily focused on CPUs, like LLVM's TableGen schedule
 
 **Scheduling languages**
 
-For a long time, performance engineers had to choose between relying on the fragile and opaque heuristics of compilers and manually writing compute kernels in assembly. The emergence of scheduling languages such as [Halide](https://halide-lang.org/) made it possible to control transformations while still benefiting from automatic code generation; the primitives of these languages act as an interface to trigger the compiler’s transformation functions (vectorize, unroll, tile, etc.), but the decision is not delegated to heuristics--it is made by the engineer.
+For a long time, performance engineers had to choose between relying on the fragile and opaque heuristics of compilers and manually writing compute kernels in assembly. The emergence of scheduling languages such as [Halide](https://halide-lang.org/) made it possible to control transformations while still benefiting from automatic code generation; the primitives of these languages act as an interface to trigger the compiler’s transformation functions (vectorize, unroll, tile, etc.), but the decision is not delegated to heuristics --it is made by the engineer.
 
 These approaches have now been adopted in MLIR through the [Transform dialect](https://mlir.llvm.org/docs/Dialects/Transform/), where the ecosystem of dialects allows for precise manipulation of computations at various levels of abstraction. New opportunities are emerging, both for manual optimization and for autotuning. What is the next step?
+
+**Backends, Code Generation, and Target-Specific Abstractions**
+
+Today, most MLIR-based compilation pipelines still rely on the traditional LLVM backend for the final lowering stages. After transformations in MLIR, the IR is typically handed off to ```opt``` and ```llc``` for code generation, leaving the instruction selection, register allocation, and low-level optimizations to the classic LLVM toolchain. While this leverages a mature and battle-tested backend, it also imposes a boundary: once lowered to LLVM IR, the benefits of MLIR’s structured abstractions are lost.
+
+However, the landscape is shifting. MLIR now offers the possibility to extend backend infrastructure directly within the MLIR framework. This opens the door to backend passes that are composable, retargetable, and aware of the high-level semantics preserved throughout the MLIR pipeline. It invites a rethinking of backend design: can instruction selection be made more declarative? Can we build customizable register allocators as passes? How far can we push code generation within MLIR itself, before handing off to a target-specific assembler?
