@@ -5,12 +5,19 @@ permalink: /themes/
 ---
 
 
-Covering a number of pressing technical themes, we bring key stakeholders together, go into technically depth,
-and make forward progress through conversation, coding, and community alignment.
+Covering a number of pressing technical themes, we bring key stakeholders
+together, go into technically depth, and make forward progress through
+conversation, coding, and community alignment. Our topics this year are
+hardware accelerators, crypto, quantum, performance modeling, scheduling
+languages, compiler backends, formal verification, and EDA."
+
+**Hardware Accelerators for AI and More**
 
 **Crypto-IRs and Crypto-Aware Design**
 
 The crypto community has discovered MLIR as a tool and uses it to build systems where programs are compiled into cryptographic schemes, endowing them with strong properties. For example, the [HEIR compiler](https://heir.dev/) based on MLIR implements *fully homomorphic encryption*, meaning the resulting program can operate on encrypted data without the party running the computation learning anything. Another example are *zero knowledge circuits*, which allow one to prove they ran a publicly known program on a secret input and obtained a specific result. [LLZK](https://veridise.github.io/llzk-lib/main/) is a recent MLIR-based infrastructure that can consume different types of circuits and can analyze and compile them. In addition, cryptographic codes have specific requirements, e.g., *constant time* preservation: the run time of cryptographic routines should not depend on the value of the secrets, which precludes branching on secrets or even some multiplications. However, programs written in this style can be slower, and thus compilers break constant time while optimizing.
+
+**Quantum Computing**
 
 **Performance Modeling and Evaluation**
 
@@ -29,3 +36,5 @@ These approaches have now been adopted in MLIR through the [Transform dialect](h
 Today, most MLIR-based compilation pipelines still rely on the traditional LLVM backend for the final lowering stages. After transformations in MLIR, the IR is typically handed off to ```opt``` and ```llc``` for code generation, leaving the instruction selection, register allocation, and low-level optimizations to the classic LLVM toolchain. While this leverages a mature and battle-tested backend, it also imposes a boundary: once lowered to LLVM IR, the benefits of MLIR’s structured abstractions are lost.
 
 However, the landscape is shifting. MLIR now offers the possibility to extend backend infrastructure directly within the MLIR framework. This opens the door to backend passes that are composable, retargetable, and aware of the high-level semantics preserved throughout the MLIR pipeline. It invites a rethinking of backend design: can instruction selection be made more declarative? Can we build customizable register allocators as passes? How far can we push code generation within MLIR itself, before handing off to a target-specific assembler?
+
+** Formal Verification
