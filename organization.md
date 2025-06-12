@@ -37,6 +37,8 @@ feature_row_org_snd:
 {% include feature_row id="feature_row_org_fst" %}
 {% include feature_row id="feature_row_org_snd" %}
 
-# Sponsors
+# Sponsorship
 
-*Coming soon*
+If you or your company is interested in sponsoring the MLIR summer school, please reach out to the organizers.
+
+
