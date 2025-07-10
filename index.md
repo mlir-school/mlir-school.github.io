@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "MLIR Compiler (Un)School"
+title: "MLIR Compiler (Un)School - (for expert-to-expert conversations)"
 excerpt: "8 - 12 September 2025, Cambridge, UK"
 header:
   overlay_color: "#000"
@@ -15,7 +15,7 @@ feature_row_overview:
   - image_path: /images/robinson1.png
     alt: "Robinson College"
     title: "Robinson College"
-    excerpt: "Enjoy full-board accommodation in the welcoming atmosphere of Robinson College—ideally located between the historic city center and the Computer Science Department. Its stunning gardens, peaceful setting and fully-equiped conference building, offer a place **perfect to focus, connect, and learn**."
+    excerpt: "Enjoy full-board accommodation in the welcoming atmosphere of Robinson College—ideally located between the historic city center and the Computer Science Department. Its stunning gardens, peaceful setting and fully-equipped conference building, offer a place **perfect to focus, connect, and learn**."
   - image_path: /images/school2b.png
     alt: "Hands-on Courses"
     title: "Hands-on Courses"
