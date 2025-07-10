@@ -23,7 +23,7 @@ The crypto community has discovered MLIR as a tool and uses it to build systems 
 
 As quantum computers scale, compilation becomes a fundamental challenge at all levels of abstraction. Quantum compilers are not just about the abstract representation of programs/intermediate representations in the compilation stack, but — especially in the non-Clifford and fault-tolerant regimes — also about the logical representation, layout, scheduling and distribution of compute. This is made more difficult by the target hardware — qubit architectures and their control systems — being an evolving target. 
 Further, no system is purely quantum — even textbook algorithms such as Shor’s include structure, control flow, and classical instructions, and we need compiler toolchains that take this into account. While industrial-scale, open source tooling for classical compilation develops at high velocity and is heavily used, bespoke quantum compilers often reimplement the infrastructure as proprietary, closed source tools. 
-The MLIR School is an opportunity to advance the state of compilers to make quantum computing first-class in the MLIR ecosystem. We will also learn from other domain-specific compilers, and investigate problems at the intersection of domains such as how noise models in quantum programs relate to noise in Fully Homomorphic Encryption
+The MLIR School is an opportunity to advance the state of compilers to make quantum computing first-class in the MLIR ecosystem. We will also learn from other domain-specific compilers, and investigate problems at the intersection of domains such as how noise models in quantum programs relate to noise in Fully Homomorphic Encryption.
 
 ### Performance Modeling and Evaluation
 
