@@ -32,7 +32,7 @@ we focus on high-bandwidth expert-to-expert cross-domain collaboration that fuel
 
 In the gardens of Robinson College Cambridge, we *bring together MLIR experts, domain specialists, and students* to accelerate MLIR innovation. The **MLIR (Un)School** will experiment with an interactive event format, aiming for a participatory event centered around **peer-learning and expert conversations**. We will also offer some foundational courses.
 
-We identified a set of [focus themes](themes) for our conversations.
+We identified a set of [technical themes](themes) which we will innovate on.
 
 {% include feature_row id="feature_row_overview" %}
 
