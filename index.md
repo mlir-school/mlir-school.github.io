@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "MLIR Compiler (Un)School - collaborate at frontier of innovation"
+title: "MLIR Compiler (Un)School - innovation beyond foundations"
 excerpt: "8 - 12 September 2025, Cambridge, UK"
 header:
   overlay_color: "#000"
