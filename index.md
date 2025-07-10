@@ -29,7 +29,7 @@ feature_row_overview:
 
 MLIR is revolutionizing compiler technology! In just a few years, MLIR has established itself as a central compiler framework for AI, EDA, quantum computing, and crypto compilers. The resulting many-domain ecosystem is of unseen size and diversity, creating exciting opportunities for formal verification and the use of AI for compilers. We need high-bandwidth communication for efficient cross-domain collaboration that welcomes new community members to push MLIR forward.
 
-In the gardens of Robinson College Cambridge, we *bring together MLIR experts, domain specialists, and students* to accelerate MLIR innovation. The **MLIR (Un)School** will experiment with an interactive event format, aiming for a participatory event centered around event interactive, peer-learning  (plus some foundational courses).
+In the gardens of Robinson College Cambridge, we *bring together MLIR experts, domain specialists, and students* to accelerate MLIR innovation. The **MLIR (Un)School** will experiment with an interactive event format, aiming for a participatory event centered around interactive, peer-learning harvesting expert knowledge across participants. We will also offer some foundational courses.
 
 {% include feature_row id="feature_row_overview" %}
 
