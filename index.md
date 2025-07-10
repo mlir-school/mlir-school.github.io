@@ -21,13 +21,13 @@ feature_row_overview:
     title: "Hands-on Courses"
     excerpt: "Start your journey with MLIR by diving into its core concepts and infrastructure. Our course will guide you through the fundamentals of SSA, operator lowering, and dialect definition. By the end, these essential building blocks will no longer be mysteries. Instead, you will **design MLIR compilers with confidence**."
   - image_path: /images/school1b.png
-    alt: "Expert Collaboraton"
+    alt: "Expert Collaboration"
     title: "Expert Collaboration"
     excerpt: "MLIR empowers experts across domains! Our interactive mini workshops enable expert collaboration across **scheduling languages**, **formal methods**, **hardware verification**, **quantum computing**, **crypto** and **AI**. Connect with motivated students and shape the MLIR community for your domain!"
 ---
 
 
-MLIR is revolutionizing compiler technology! In just a few years, MLIR has established itself as a central compiler framework for AI, EDA, quantum computing, and crypto compilers. The resulting many-domain ecosystem is of unseen size and diversity, creating exciting opportunities for formal verification and the use of AI for compilers. We need high-bandwidth expert-to-expert communication for efficient cross-domain collaboration that welcomes new community members to push MLIR forward.
+MLIR is revolutionizing compiler technology! In just a few years, MLIR has established itself as a central compiler framework for AI, EDA, quantum computing, and crypto compilers. The resulting many-domain ecosystem is of unseen size and diversity, creating exciting opportunities for formal verification and the use of AI for compilers. We need high-bandwidth expert-to-expert communication for efficient cross-domain collaboration to push MLIR forward, while also welcoming newcomers to our community.
 
 In the gardens of Robinson College Cambridge, we *bring together MLIR experts, domain specialists, and students* to accelerate MLIR innovation. The **MLIR (Un)School** will experiment with an interactive event format, aiming for a participatory event centered around **peer-learning and expert conversations**. We will also offer some foundational courses.
 
