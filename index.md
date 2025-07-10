@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "MLIR Compiler (Un)School - (for expert-to-expert conversations)"
+title: "MLIR Compiler (Un)School -- at the frontier of innovation"
 excerpt: "8 - 12 September 2025, Cambridge, UK"
 header:
   overlay_color: "#000"
