@@ -8,7 +8,7 @@ permalink: /schedule/
 
 ## TileIR | *Theo*
 
-## MLIR Fundamentals: Understanding Interfaces | *Mathias Springer*
+## MLIR Fundamentals: Understanding Interfaces | *Matthias Springer*
 
 Interfaces are a cornerstone of extensibility and modularity in MLIR. This session covers operation interfaces, type interfaces and attribute interfaces, and how to design and implement them. The main part of the session will focus on existing core interfaces in MLIR. Attendees will gain insight into how interfaces drive analyses and transformations, improve code structure, and facilitate scalable compiler development.
 
