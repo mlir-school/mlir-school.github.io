@@ -4,6 +4,21 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
+# Expert Sessions
+
+## TileIR | *Theo*
+
+## MLIR Fundamentals: Understanding Interfaces | *Mathias Springer*
+
+Interfaces are a cornerstone of extensibility and modularity in MLIR. This session covers operation interfaces, type interfaces and attribute interfaces, and how to design and implement them. The main part of the session will focus on existing core interfaces in MLIR. Attendees will gain insight into how interfaces drive analyses and transformations, improve code structure, and facilitate scalable compiler development.
+
+Topics Covered:
+
+- What interfaces are, where they are used in MLIR and how to design / implement interfaces.
+- Real-world examples and demonstrations of core interfaces: from memory effects and control-flow modeling to bufferization and type abstraction. This session covers a wide range of core MLIR interfaces that model op semantics and drive analyses / transformations.
+- Discussion of challenges and open questions in the design of the covered interfaces.
+
+This session is ideal for both newcomers and experienced MLIR users interested in building robust and maintainable compiler components. Interactive discussions will provide opportunities to explore best practices and unresolved design problems in the MLIR ecosystem.
 ## Expert Track Leads:
 
 ## Monday
