@@ -1,7 +1,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Themes"
+  - title: "Expert Themes"
     url: /themes/
   - title: "Program"
     url: /program/
