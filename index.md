@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "MLIR (Un)School - innovation beyond foundations"
+title: "MLIR (Un)School - expert conversations and peer-learning"
 excerpt: "8 - 12 September 2025, Cambridge, UK"
 header:
   overlay_color: "#000"
