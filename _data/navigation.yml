@@ -1,6 +1,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Themes"
+    url: /themes/
   - title: "Program"
     url: /program/
   - title: "Application"
