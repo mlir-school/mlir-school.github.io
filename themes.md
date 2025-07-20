@@ -31,7 +31,7 @@ The modern hardware landscape is a diverse collection of compute engines: out-of
 
 Prior modeling efforts, primarily focused on CPUs, like LLVM's TableGen schedule models, precisely capture instruction latencies and resource usage. However, MLIR offers a compelling new avenue with the direct embedding of multi-level abstractions. This capability, coupled with the new computational domains it unlocks, compels us to rethink our design. How can we truly integrate target-aware information as a first-class citizen for this complex and heterogeneous compute landscape?
 
-### Scheduling Languages
+### Scheduling Languages (Lead: Alex Zinenko)
 
 For a long time, performance engineers had to choose between relying on the fragile and opaque heuristics of compilers and manually writing compute kernels in assembly. The emergence of scheduling languages such as [Halide](https://halide-lang.org/) made it possible to control transformations while still benefiting from automatic code generation; the primitives of these languages act as an interface to trigger the compiler’s transformation functions (vectorize, unroll, tile, etc.), but the decision is not delegated to heuristics --it is made by the engineer.
 
