@@ -10,7 +10,7 @@ conversation, coding, and community alignment. Our topics this year are
 hardware accelerators, crypto, quantum, performance modeling, scheduling
 languages, compiler backends, formal verification, and EDA."
 
-### Hardware Accelerators for AI and More
+### Hardware Accelerators for AI and More (Lead: Kunwer Grover, AMD)
 
 AI relies today on highly specialized hardware accelerators, starting from GPU with specialized AI extensions,
 AMD's AI engine, as well as AI chips from companies such as Tenstorrent, Cerebras and more. Building specialized AI chips requires specialized AI compiler stacks.
