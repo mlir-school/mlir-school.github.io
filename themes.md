@@ -15,7 +15,7 @@ languages, compiler backends, formal verification, and EDA."
 AI relies today on highly specialized hardware accelerators, starting from GPU with specialized AI extensions,
 AMD's AI engine, as well as AI chips from companies such as Tenstorrent, Cerebras and more. Building specialized AI chips requires specialized AI compiler stacks.
 
-### Crypto-IRs and Crypto-Aware Design
+### Crypto-IRs and Crypto-Aware Design (Lead: Alexander Viand, Intel)
 
 The crypto community has discovered MLIR as a tool and uses it to build systems where programs are compiled into cryptographic schemes, endowing them with strong properties. For example, the [HEIR compiler](https://heir.dev/) based on MLIR implements *fully homomorphic encryption*, meaning the resulting program can operate on encrypted data without the party running the computation learning anything. Another example are *zero knowledge circuits*, which allow one to prove they ran a publicly known program on a secret input and obtained a specific result. [LLZK](https://veridise.github.io/llzk-lib/main/) is a recent MLIR-based infrastructure that can consume different types of circuits and can analyze and compile them. In addition, cryptographic codes have specific requirements, e.g., *constant time* preservation: the run time of cryptographic routines should not depend on the value of the secrets, which precludes branching on secrets or even some multiplications. However, programs written in this style can be slower, and thus compilers break constant time while optimizing.
 
