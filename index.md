@@ -23,7 +23,7 @@ feature_row_overview:
     excerpt: "MLIR empowers experts across domains! Our interactive mini workshops enable expert collaboration across **scheduling languages**, **formal methods**, **hardware verification**, **quantum computing**, **crypto** and **AI**. Connect with motivated students and shape the MLIR community for your domain!"
 ---
 
-**Note:** The registration for the MLIR (Un)School has meanwhile closed. We will hosting a public compiler social on Friday 12 of September, which will have a capacity of 250 people, will be free to attend, and for which will soon opening for registration. Our Compiler Social on Friday is a great opportunity for the UK compiler community to socialize with the attendees of the MLIR (Un)School -- while listening to some exciting talks.
+**Note:** The registration for the MLIR (Un)School has meanwhile closed. We will hosting a public compiler social on Friday 12 of September, which will have a capacity of 250 people, will be free to attend, and for which will soon opening for registration. Our Compiler Social is a great opportunity for the UK compiler community to socialize with the attendees of the MLIR (Un)School -- while listening to some exciting talks.
 {: .notice--info}
 
 
