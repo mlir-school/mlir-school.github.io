@@ -23,6 +23,9 @@ feature_row_overview:
     excerpt: "MLIR empowers experts across domains! Our interactive mini workshops enable expert collaboration across **scheduling languages**, **formal methods**, **hardware verification**, **quantum computing**, **crypto** and **AI**. Connect with motivated students and shape the MLIR community for your domain!"
 ---
 
+**Note:** The registration for the MLIR (Un)School has meanwhile closed. We will hosting a public compiler social on Friday 12 of September, which will be open for free and which will soon opening for registration. On Friday, we will not have any registration limit..
+{: .notice--info}
+
 
 MLIR is revolutionizing compiler technology! In just a few years, MLIR has established itself as a central compiler framework for AI, EDA, quantum computing, and crypto compilers. The resulting many-domain ecosystem is of unseen size and diversity, creating exciting opportunities for formal verification and the use of AI for compilers. With core MLIR developers at the center and welcoming domain expertise from new community members,
 we focus on high-bandwidth expert-to-expert cross-domain collaboration that fuels MLIR innovation.
