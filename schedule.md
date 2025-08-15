@@ -35,8 +35,9 @@ This session is ideal for both newcomers and experienced MLIR users interested i
 | 15:00 | --- Coffee ---                                                      |                          |
 | 15:30 | **Write and compile a multi-dialects program** <br> *Mehdi Amini ?*   | Expert Track & Free Hack |
 | 17:00 | End of day program                                                  |                          |
+| 17:45 | --- Drink Reception ---					      |                          |
 | 18:30 | --- Formal Dinner ---                                               |                          |
-| 21:00 | Open Program: e.g., hang out at College Bar                         |                          |
+| 21:00 | open program: e.g., hang out at college bar                         |                          |
 
 # Tuesday
 
