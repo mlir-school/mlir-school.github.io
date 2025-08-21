@@ -4,11 +4,11 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
-# Beginner & Expert Sessions
+# Core & Specialized Sessions
 
 ## Monday
 
-| Time  |  Track I                                                            | Track II                 |
+| Time  |  Core Track                                                            | Specialized Track                 |
 |-----: |:------------------------------------------------------------------- | ------------------------ |
 |  9:00 | --- Arrival ---                                                     |                          |
 |  9:30 | **Welcome + Introductions** <br>*Tobias Grosser & Fabrice Rastello* |                          |
@@ -26,7 +26,7 @@ permalink: /schedule/
 
 ## Tuesday
 
-| Time  |  Track I                                                            | Track II                 |
+| Time  |  Core Track                                                            | Specialized Track                 |
 |-----: |:------------------------------------------------------------------- | ------------------------ |
 |  9:00 | --- Arrival ---                                                     |                          |
 |  9:30 | **Peer-to-Peer Skillshare**                                         |                          |
@@ -42,7 +42,7 @@ permalink: /schedule/
 
 ## Wednesday
 
-| Time  |  Track I                                                            | Track II                 |
+| Time  |  Core Track                                                            | Specialized Track                 |
 |-----: |:------------------------------------------------------------------- | ------------------------ |
 |  9:00 | --- Arrival ---                                                     |                          |
 |  9:30 | **Peer-to-Peer Skillshare**                                         |                          |
@@ -58,7 +58,7 @@ permalink: /schedule/
 
 ## Thursday
 
-| Time  |  Track I                                                            | Track II                 |
+| Time  |  Core Track                                                            | Specialized Track                 |
 |-----: |:------------------------------------------------------------------- | ------------------------ |
 |  9:00 | --- Arrival ---                                                     |                          |
 |  9:30 | **Peer-to-Peer Skillshare**                                         |                          |
