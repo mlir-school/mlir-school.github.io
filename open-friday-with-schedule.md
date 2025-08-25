@@ -31,8 +31,8 @@ register.
 | 10:00 | **Find Topics of Interest**                                         |
 | 10:30 | --- Coffee ---                                                      |
 | 11:00 | **Hackathon (facilitated)**                                         |
-| 12:30 | --- Lunch ---                                                       |
-| 13:30 | **Introduction To MLIR IR** <br> *Theo Degioanni, Mathieu Fehr, Sasha Lopoukhine* |
+| 13:30 | --- Lunch ---                                                       |
+| 14:30 | |
 | 15:00 | --- Coffee ---                                                      |
 | 15:30 | **A Deep Dive into MLIR** <br> *Mehdi Amini*                        |
 | 17:00 | End of day program                                                  |
