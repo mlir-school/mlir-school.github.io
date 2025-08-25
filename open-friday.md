@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "MLIR (Un)School Meets Compiler Community"
-excerpt: "Friday, September 12, William Gates Building"
+title: "MLIR (Un)School Friday Workshop"
+excerpt: "(Un)School meet Compiler Community | September 12, William Gates Building"
 permalink: /open-friday/
 header:
   overlay_color: "#000"
