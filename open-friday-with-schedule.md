@@ -15,7 +15,24 @@ day of our MLIR (Un)School and offers an opportunity for our international MLIR
 (Un)School attendees to mingle with the UK compiler community.
 
 
-## Schedule
+## Schedule | Friday, Sep 12tj
+
+| Time  |  Core Track                                                         |
+|-----: |:------------------------------------------------------------------- |
+|  9:00 | --- Arrival ---                                                     |
+|  9:30 | **Welcome + Introductions** <br>*Tobias Grosser & Fabrice Rastello* |
+| 10:00 | **Find Topics of Interest**                                         |
+| 10:30 | --- Coffee ---                                                      |
+| 11:00 | **Hackathon (facilitated)**                                         |
+| 12:30 | --- Lunch ---                                                       |
+| 13:30 | **Introduction To MLIR IR** <br> *Theo Degioanni, Mathieu Fehr, Sasha Lopoukhine* |
+| 15:00 | --- Coffee ---                                                      |
+| 15:30 | **A Deep Dive into MLIR** <br> *Mehdi Amini*                        |
+| 17:00 | End of day program                                                  |
+| 17:45 | --- Drink Reception ---					      |
+| 18:30 | --- Formal Dinner ---                                               |
+| 21:00 | open program: e.g., hang out at college bar                         |
+
 
 ## Location
 
