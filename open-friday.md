@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Open Friday"
-excerpt: "A Public Workshop for Locals and (Un)school Attendees"
+title: "Public MLIR Workshop for Locals and (Un)school Attendees"
+excerpt: "Friday, September 12, William Gates Building"
 permalink: /open-friday/
 header:
   overlay_color: "#000"
