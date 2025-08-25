@@ -14,8 +14,13 @@ Community**.  On Friday 12th of September. This public workshop is the final
 day of our MLIR (Un)School and offers an opportunity for our international MLIR
 (Un)School attendees to mingle with the UK compiler community.
 
+## Registration
 
-## Schedule | Friday, Sep 12tj
+Please [register](#)! While attendance is free, your registration will help us
+with catering and badge printing. (Un)School participants do not need to
+register.
+
+## Schedule | Friday, Sep 12th
 
 | Time  |  Core Track                                                         |
 |-----: |:------------------------------------------------------------------- |
