@@ -2,7 +2,7 @@
 layout: splash
 title: "Open Friday"
 excerpt: "A Public Workshop for Locals and (Un)school Attendees"
-permalink: /open-friday
+permalink: /open-friday/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
