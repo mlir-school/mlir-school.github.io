@@ -28,13 +28,13 @@ register.
 | 10:00 | Welcome                                                             |
 | 10:15 | **Building an ecosystem around machine readable ISA specifications - Alastair Reid** |
 |       | Specifications of Instruction Set Architectures (ISAs) lie at the heart of compilers: telling us what an instruction does and how to use it. They are also critical to activities like translation validation, binary translation, JITing, formal verification, binary lifting, OS implementation, and binary level security analysis. There are official specifications for both Arm and RISC-V (and, soon, for Intel Architecture) are publicly available but many projects that could use these specifications are not using the official, machine readable specifications. It has become clear that "if we build it, they will come" is not true. This talk will look at what is missing and what can be done to fill this gap and, in particular, how adopting MLIR can help with both the technical and ecosystem challenges.<br> *Bio: Dr Alastair Reid is a Senior Principal Engineer at Intel Labs working at the intersection of formal verification, security, privacy, software, hardware, compilers, processor architecture and microarchitecture. For the last 15 years or so, his focus has been on creating high-quality machine readable formal specifications of computer architecture and using those specifications to support formal verification. Arm's formal specification was published in 2017 and Alastair hope to release Intel's formal specification soon.*|
-| 10:00 | **Find Topics of Interest**                                         |
+| 11:00 | |
 | 10:30 | --- Coffee ---                                                      |
-| 11:00 | **Hackathon (facilitated)**                                         |
+| 11:00 | |
 | 13:30 | --- Lunch ---                                                       |
 | 14:30 | |
 | 15:00 | --- Coffee ---                                                      |
-| 15:30 | **A Deep Dive into MLIR** <br> *Mehdi Amini*                        |
+| 15:30 | |
 | 17:00 | End of day program                                                  |
 
 
