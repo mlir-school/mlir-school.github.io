@@ -5,6 +5,8 @@ main:
     url: /themes/
   - title: "Program"
     url: /program/
+  - title: "Open Friday"
+    url: /open-friday/
   - title: "Application"
     url: "https://docs.google.com/forms/d/e/1FAIpQLSc1tykepjxHuOxiTKlx60e-mejKZABNipmEtSix5AjtNWosJA/viewform?usp=dialog"
   - title: "Organization"
