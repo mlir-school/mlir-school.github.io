@@ -32,7 +32,7 @@ register.
 | 11:30 | **IREE - Kunwar Grover** |
 | 12:00 | **XTC Talk - Christophe Guillon** ||
 | 12:30 | --- Lunch ---                                                      |
-| 13:00 | **Summar School Lightening Talks**                                 |
+| 13:00 | **Summer School Lightening Talks**                                 |
 | 15:00 | --- Coffee ---                                                      |
 | 15:30 | |
 | 15:30 | **Poster Session & Social**                                         |
