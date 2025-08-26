@@ -6,21 +6,21 @@ permalink: /schedule/
 
 ## Monday
 
-| Time  | Ground Floor                                                                      | Upstairs 1                              | Upstairs 2                                               | Upstairs 3                             |
-|-----: |:----------------------------------------------------------------------------------| ----------------------------------------| ---------------------------------------------------------| ----------------------------------------|
-|  9:00 | --- Arrival ---                                                                   |                                         |                                                          |                                         |
-|  9:30 | **Welcome + Introductions** <br>*Tobias Grosser & Fabrice Rastello*               |                                         |                                                          |                                         |
-| 10:00 | **Find Topics of Interest**                                                       |                                         |                                                          |                                         |
-| 11:00 | --- Coffee ---                                                                    |                                         |                                                          |                                         |
-| 11:30 | **Hackathon (facilitated)**                                                       |                                         |                                                          |                                         |
-| 12:30 | --- Lunch ---                                                                     |                                         |                                                          |                                         |
-| 13:30 | **Introduction To MLIR IR** <br> *Theo Degioanni, Mathieu Fehr, Sasha Lopoukhine* | **Quantum Computing**<br> Samin Ishtiaq | **Crypto & Zero Knowledge**<br> Alexander Viand          | **Quantum Computing**<br> Samin Ishtiaq |
-| 15:00 | --- Coffee ---                                                                    |                                         |                                                          |                                         |
-| 15:30 | **A Deep Dive into MLIR** <br> *Mehdi Amini*                                      | **Formal**<br> Leo Stefanesco           |                                                          |                                         |
-| 17:00 | End of day program                                                                |                                         |                                                          |                                         |
-| 17:45 | --- Drink Reception ---					                    |                                         |                                                          |                                         |
-| 18:30 | --- Formal Dinner ---                                                             |                                         |                                                          |                                         |
-| 21:00 | open program: e.g., hang out at college bar                                       |                                         |                                                          |                                         |
+| Time  | Ground Floor                                                                              | Upstairs 1                              | Upstairs 2                                               | Upstairs 3                             |
+|-----: |:------------------------------------------------------------------------------------------| ----------------------------------------| ---------------------------------------------------------| ----------------------------------------|
+|  9:00 | --- Arrival ---                                                                           |                                         |                                                          |                                         |
+|  9:30 | **Welcome + Introductions** <br>*Tobias Grosser & Fabrice Rastello*                       |                                         |                                                          |                                         |
+| 10:00 | **Find Topics of Interest**                                                               |                                         |                                                          |                                         |
+| 11:00 | --- Coffee ---                                                                            |                                         |                                                          |                                         |
+| 11:30 | **Hackathon (facilitated)**                                                               |                                         |                                                          |                                         |
+| 12:30 | --- Lunch ---                                                                             |                                         |                                                          |                                         |
+| 13:30 | **Introduction To MLIR - hands on** <br> *Theo Degioanni, Mathieu Fehr, Sasha Lopoukhine* | **Quantum Computing**<br> Samin Ishtiaq | **Crypto & Zero Knowledge**<br> Alexander Viand          | **Quantum Computing**<br> Samin Ishtiaq |
+| 15:00 | --- Coffee ---                                                                            |                                         |                                                          |                                         |
+| 15:30 | **Introduction To MLIR - deep dive** <br> *Mehdi Amini*                                   | **Formal**<br> Leo Stefanesco           |                                                          |                                         |
+| 17:00 | End of day program                                                                        |                                         |                                                          |                                         |
+| 17:45 | --- Drink Reception ---					                            |                                         |                                                          |                                         |
+| 18:30 | --- Formal Dinner ---                                                                     |                                         |                                                          |                                         |
+| 21:00 | open program: e.g., hang out at college bar                                               |                                         |                                                          |                                         |
 
 ## Tuesday
 
