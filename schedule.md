@@ -4,8 +4,6 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
-# Core & Specialized Sessions
-
 ## Monday
 
 | Time  |  Core Track                                                            | Specialized Track                 |
