@@ -9,7 +9,7 @@ permalink: /schedule/
 
 ## Monday
 
-| Time  | Ground Floor                                                                              | Upstairs 1                              | Upstairs 2                                               | Upstairs 3                             |
+| Time  | Ground Floor                                                                              | Upstairs 1                              | Upstairs 2                                               | Upstairs 3                              |
 |-----: |:------------------------------------------------------------------------------------------| ----------------------------------------| ---------------------------------------------------------| ----------------------------------------|
 |  9:00 | --- Arrival ---                                                                           |                                         |                                                          |                                         |
 |  9:30 | **Welcome + Introductions** <br>*Tobias Grosser & Fabrice Rastello*                       |                                         |                                                          |                                         |
@@ -17,7 +17,7 @@ permalink: /schedule/
 | 11:00 | --- Coffee ---                                                                            |                                         |                                                          |                                         |
 | 11:30 | **Technical Kick-Off II - Get to Know the Topics Present** <br> different speakers        |                                         |                                                          |                                         |
 | 12:30 | --- Lunch ---                                                                             |                                         |                                                          |                                         |
-| 13:30 | **Introduction To MLIR - hands on** <br> *Theo Degioanni, Mathieu Fehr, Sasha Lopoukhine* | **Quantum Computing**<br> Samin Ishtiaq | **Crypto & Zero Knowledge**<br> Alexander Viand          | **Quantum Computing**<br> Samin Ishtiaq |
+| 13:30 | **Introduction To MLIR - hands on** <br> *Theo Degioanni, Mathieu Fehr, Sasha Lopoukhine* | **Quantum Computing**<br> Samin Ishtiaq | **Crypto & Zero Knowledge**<br> Alexander Viand          |                                         |
 | 15:00 | --- Coffee ---                                                                            |                                         |                                                          |                                         |
 | 15:30 | **Introduction To MLIR - deep dive** <br> *Mehdi Amini*                                   | **Formal**<br> Leo Stefanesco           |                                                          |                                         |
 | 17:00 | End of day program                                                                        |                                         |                                                          |                                         |
