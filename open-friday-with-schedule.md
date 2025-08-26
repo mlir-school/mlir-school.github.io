@@ -35,7 +35,7 @@ register.
 | 13:00 | **Summar School Lightening Talks**                                 |
 | 15:00 | --- Coffee ---                                                      |
 | 15:30 | |
-| 15:30 | Poster Session & Social                                             |
+| 15:30 | **Poster Session & Social**                                         |
 | 17:00 | End of day program                                                  |
 
 
