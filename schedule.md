@@ -4,6 +4,9 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
+**Note:** The MLIR (Un)School is an interactive event → Our Schedule continues to evolve until and throughout the MLIR (Un)school.
+{: .notice--info}
+
 ## Monday
 
 | Time  | Ground Floor                                                                              | Upstairs 1                              | Upstairs 2                                               | Upstairs 3                             |
