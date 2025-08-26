@@ -22,7 +22,7 @@ register.
 
 ## Schedule | Friday, Sep 12th
 
-TBC
+9:00 - 17:00, details follow soon
 
 ## Location
 
