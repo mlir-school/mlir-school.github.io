@@ -12,7 +12,7 @@ header:
 Join us for our Open Friday, titled **MLIR (Un)School Meets Compiler
 Community**.  On Friday 12th of September. This public workshop is the final
 day of our MLIR (Un)School and offers an opportunity for our international MLIR
-(Un)School attendees to mingle with the UK compiler community.
+(Un)School attendees to connect with the UK compiler community.
 
 ## Registration
 
