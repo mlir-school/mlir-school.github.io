@@ -4,7 +4,7 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
-**Note:** The MLIR (Un)School is an interactive event → Our Schedule continues to evolve until and throughout the MLIR (Un)school.
+**Note:** The MLIR (Un)School is a dynamic event → Our Schedule continues to evolve until and throughout the MLIR (Un)School.
 {: .notice--info}
 
 ## Monday
