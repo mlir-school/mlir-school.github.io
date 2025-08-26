@@ -6,7 +6,7 @@ permalink: /schedule/
 
 ## Monday
 
-| Time  |  Core Track                                                                       | Breakout 1                              | Breakout 2                                               | Breakout 3                              |
+| Time  | Ground Floor                                                                      | Upstairs 1                              | Upstairs 2                                               | Upstairs 3                             |
 |-----: |:----------------------------------------------------------------------------------| ----------------------------------------| ---------------------------------------------------------| ----------------------------------------|
 |  9:00 | --- Arrival ---                                                                   |                                         |                                                          |                                         |
 |  9:30 | **Welcome + Introductions** <br>*Tobias Grosser & Fabrice Rastello*               |                                         |                                                          |                                         |
