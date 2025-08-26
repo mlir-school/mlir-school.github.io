@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "MLIR (Un)School Meets Compiler Community"
+title: "MLIR (Un)School Meets UK Compiler Community"
 excerpt: "Public Workshop - Fri, Sep 12 @ William Gates Building"
 permalink: /open-friday-with-schedule
 header:
