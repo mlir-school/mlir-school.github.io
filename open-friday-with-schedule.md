@@ -31,9 +31,8 @@ register.
 | 11:00 | **TileIR - Théo Degioanni & Lorenzo Chelini** |
 | 11:30 | **IREE - Kunwar Grover** |
 | 12:00 | **XTC Talk - Christophe Guillon** ||
-| 10:30 | --- Coffee ---                                                      |
-| 11:00 | |
-| 13:30 | --- Lunch ---                                                       |
+| 12:30 | --- Lunch ---                                                      |
+| 13:00 | Summar School Lightening Talks                                      |
 | 14:30 | |
 | 15:00 | --- Coffee ---                                                      |
 | 15:30 | |
