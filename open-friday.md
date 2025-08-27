@@ -16,7 +16,7 @@ day of our MLIR (Un)School and offers an opportunity for our international MLIR
 
 ## Registration
 
-Please register (coming soon)! While attendance is free, your registration will help us
+[Please register](https://docs.google.com/forms/d/e/1FAIpQLSeRaSREk5sSVvNChBagRcR2R0c_-OpgR2EDHMXMKkyAl6hI1A/viewform?usp=header)! While attendance is free, your registration will help us
 with catering and badge printing. (Un)School participants do not need to
 register.
 
