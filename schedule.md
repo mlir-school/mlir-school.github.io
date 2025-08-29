@@ -7,7 +7,7 @@ permalink: /schedule/
 **Note:** The MLIR (Un)School is a dynamic event → Our Schedule evolves until and throughout the MLIR (Un)School.
 {: .notice--info}
 
-## Monday
+## Day 1 | Monday, Sep 8
 
 | Time  | Ground Floor                                                                              | Upstairs 1                              | Upstairs 2                                                   | Upstairs 3                                 |
 |-----: |:------------------------------------------------------------------------------------------| ----------------------------------------| -------------------------------------------------------------| -------------------------------------------|
@@ -25,7 +25,7 @@ permalink: /schedule/
 | 18:30 | --- Formal Dinner ---                                                                     |                                         |                                                              |                                            |
 | 21:00 | open program: e.g., hang out at college bar                                               |                                         |                                                              |                                            |
 
-## Tuesday
+## Day 2 | Tuesday, Sep 9
 
 | Time  |  Core Track                                                            | Specialized Track                 |
 |-----: |:------------------------------------------------------------------- | ------------------------ |
@@ -41,7 +41,7 @@ permalink: /schedule/
 | 18:30 | --- Dinner ---                                               |                          |
 | 21:00 | Open Program: e.g., hang out at College Bar                         |                          |
 
-## Wednesday
+## Day 3 | Wednesday, Sep 10
 
 | Time  |  Core Track                                                            | Specialized Track                 |
 |-----: |:------------------------------------------------------------------- | ------------------------ |
@@ -57,7 +57,7 @@ permalink: /schedule/
 | 18:30 | --- Dinner ---                                               |                          |
 | 21:00 | Open Program: e.g., hang out at College Bar                         |                          |
 
-## Thursday
+## Day 4 | Thursday, Sep 11
 
 | Time  |  Core Track                                                            | Specialized Track                 |
 |-----: |:------------------------------------------------------------------- | ------------------------ |
