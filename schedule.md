@@ -23,7 +23,7 @@ permalink: /schedule/
 | 17:00 | End of day program                                                                        |                                         |                                                              |                                            |
 | 17:45 | --- Drink Reception ---					                            |                                         |                                                              |                                            |
 | 18:30 | --- Formal Dinner ---                                                                     |                                         |                                                              |                                            |
-| 21:00 | open program: e.g., hang out at college bar                                               |                                         |                                                              |                                            |
+| 21:00 | Open Program: e.g., hang out at college bar                                               |                                         |                                                              |                                            |
 
 ## Day 2 | Tuesday, Sep 9
 
