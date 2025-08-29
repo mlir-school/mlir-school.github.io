@@ -73,6 +73,6 @@ permalink: /schedule/
 | 18:30 | --- Dinner ---                                               |                          |
 | 21:00 | Open Program: e.g., hang out at College Bar                         |                          |
 
-## Friday
+## Day 5 | Friday, Sep 12
 
 See [Open Day - MLIR (Un)School Meets Compiler Community](/open-friday).
