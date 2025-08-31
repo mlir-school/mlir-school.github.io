@@ -9,7 +9,7 @@ permalink: /schedule/
 
 ## Day 1 | Monday, Sep 8
 
-| Time  | Ground Floor                                                                              | Upstairs 1                              | Upstairs 2                                                   | Upstairs 3                                  |
+| Time  | MLIR Core @ Ground Floor                                                                              | Upstairs 1                              | Upstairs 2                                                   | Upstairs 3                                  |
 |-----: |:------------------------------------------------------------------------------------------| ----------------------------------------| -------------------------------------------------------------| --------------------------------------------|
 |  9:00 | --- Arrival ---                                                                           |                                         |                                                              |                                             |
 |  9:30 | **Welcome + Introductions** <br>*Tobias Grosser & Fabrice Rastello*                       |                                         |                                                              |                                             |
@@ -27,7 +27,7 @@ permalink: /schedule/
 
 ## Day 2 | Tuesday, Sep 9
 
-| Time  |  Ground Floor                                                                             | Upstairs 1                              | Upstairs 2                                                   | Upstairs 3                                  |
+| Time  |  MLIR Core & Ground Floor                                                                             | Upstairs 1                              | Upstairs 2                                                   | Upstairs 3                                  |
 |-----: |:------------------------------------------------------------------------------------------| ----------------------------------------| -------------------------------------------------------------| --------------------------------------------|
 |  9:00 | --- Arrival ---                                                                           |                                         |                                                              |                                             |
 |  9:30 | **Peer-to-Peer Skillshare**                                                               |                                         |                                                              |                                             |
@@ -60,7 +60,7 @@ This session is ideal for both newcomers and experienced MLIR users interested i
                                                                                                     
 ## Day 3 | Wednesday, Sep 10                                                                        
 
-| Time  |  Core Track                                                                               | Specialized Track                 |
+| Time  |  MLIR Core & Ground Floor                                                                 | Specialized Track                 |
 |-----: |:------------------------------------------------------------------------------------------| ------------------------ |
 |  9:00 | --- Arrival ---                                                                           |                          |
 |  9:30 | **Hackathon / MLIR Clinic**                                                               |                          |
@@ -76,7 +76,7 @@ This session is ideal for both newcomers and experienced MLIR users interested i
 
 ## Day 4 | Thursday, Sep 11
 
-| Time  |  Core Track                                                            | Specialized Track                 |
+| Time  |  MLIR Core & Ground Floor                                           | Specialized Track                 |
 |-----: |:------------------------------------------------------------------- | ------------------------ |
 |  9:00 | --- Arrival ---                                                     |                          |
 |  9:30 | **Hackathon**                                         |                          |
