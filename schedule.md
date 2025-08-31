@@ -9,7 +9,7 @@ permalink: /schedule/
 
 ## Day 1 | Monday, Sep 8
 
-| Time  | MLIR Core @ Ground Floor                                                                              | Upstairs 1                              | Upstairs 2                                                   | Upstairs 3                                  |
+| Time  | MLIR Core @ Ground Floor                                                                  | Specialized 1                              | Specialized 2                                                   | Specialized 3                                  |
 |-----: |:------------------------------------------------------------------------------------------| ----------------------------------------| -------------------------------------------------------------| --------------------------------------------|
 |  9:00 | --- Arrival ---                                                                           |                                         |                                                              |                                             |
 |  9:30 | **Welcome + Introductions** <br>*Tobias Grosser & Fabrice Rastello*                       |                                         |                                                              |                                             |
@@ -27,10 +27,10 @@ permalink: /schedule/
 
 ## Day 2 | Tuesday, Sep 9
 
-| Time  |  MLIR Core & Ground Floor                                                                             | Upstairs 1                              | Upstairs 2                                                   | Upstairs 3                                  |
+| Time  |  MLIR Core & Ground Floor                                                                 | Specialized 1                              | Specialized 2                                                   | Specialized 3                                  |
 |-----: |:------------------------------------------------------------------------------------------| ----------------------------------------| -------------------------------------------------------------| --------------------------------------------|
 |  9:00 | --- Arrival ---                                                                           |                                         |                                                              |                                             |
-|  9:30 | **Report from Expert Sessions on Week Plan**                                              |                                         |                                                              |                                             |
+|  9:30 | **Report from Expert Sessions on Plan for Week**                                          |                                         |                                                              |                                             |
 |  10:00 | **Peer-to-Peer Skillshare**                                                              |                                         |                                                              |                                             |
 | 11:00 | --- Coffee ---                                                                            |                                         |                                                              |                                             |
 | 11:30 | **Peer-to-Peer Skillshare**                                                               |                                         |                                                              |                                             |
