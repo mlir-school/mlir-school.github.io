@@ -40,6 +40,23 @@ permalink: /schedule/
 | 17:00 | End of day program                                                                        |                                         |                                                              |                                             |
 | 18:30 | --- Dinner ---                                                                            |                                         |                                                              |                                             |
 | 21:00 | Open Program: e.g., hang out at College Bar                                               |                                         |                                                              |                                             |             
+
+<br>
+<div style="font-size: 0.8em">
+
+<p><b style="font-size: 1.2em">Understanding Interfaces</b>, <i>Matthias Springer</i></p>
+
+Interfaces are a cornerstone of extensibility and modularity in MLIR. This session covers operation interfaces, type interfaces and attribute interfaces, and how to design and implement them. The main part of the session will focus on existing core interfaces in MLIR. Attendees will gain insight into how interfaces drive analyses and transformations, improve code structure, and facilitate scalable compiler development.
+Topics Covered:
+
+<ul>
+<li>What interfaces are, where they are used in MLIR and how to design / implement interfaces.</li>
+<li>Real-world examples and demonstrations of core interfaces: from memory effects and control-flow modeling to bufferization and type abstraction. This session covers a wide range of core MLIR interfaces that model op semantics and drive analyses / transformations.</li>
+<li>Discussion of challenges and open questions in the design of the covered interfaces.</li>
+</ul>
+
+This session is ideal for both newcomers and experienced MLIR users interested in building robust and maintainable compiler components. Interactive discussions will provide opportunities to explore best practices and unresolved design problems in the MLIR ecosystem.
+</div>
                                                                                                     
 ## Day 3 | Wednesday, Sep 10                                                                        
 
