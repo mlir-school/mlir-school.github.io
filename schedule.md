@@ -21,7 +21,7 @@ permalink: /schedule/
 | 15:00 | --- Coffee ---                                                                            |                                         |                                                              |                                             |
 | 15:30 | **Introduction To MLIR - deep dive** <br> *Mehdi Amini*                                   | **Quantum Computing**<br> Samin Ishtiaq | **Crypto & Zero Knowledge**<br> Alexander Viand              | **Backend and ISA** <br>                    |
 | 17:00 | End of day program                                                                        |                                         |                                                              |                                             |
-| 17:45 | --- Drink Reception ---					                                                |                                         |                                                              |                                             |             
+| 17:45 | --- Drink Reception ---					                            |                                         |                                                              |                                             |             
 | 18:30 | --- Formal Dinner ---                                                                     |                                         |                                                              |                                             |
 | 21:00 | Open Program: e.g., hang out at college bar                                               |                                         |                                                              |                                             |
 | 23:30 | Last Drinks in College Bar                                                                |                                         |                                                              |                                             |
@@ -41,8 +41,8 @@ permalink: /schedule/
 | 15:00 | --- Coffee ---                                                                            |                                         |                                                              |                                             |
 | 15:30 | **Understanding Interfaces** <br> *Matthias Springer*                                     | **Quantum Computing**<br> Samin Ishtiaq | **Crypto & Zero Knowledge**<br> Alexander Viand              | **Backend and ISA** <br>                    |
 | 17:00 | End of day program                                                                        |                                         |                                                              |                                             |
-| 18:30 | --- Dinner ---                                                                            |                                         |                                                              |                                             |
-| 21:00 | Open Program: e.g., hang out at College Bar                                               |                                         |                                                              |                                             |             
+| 18:00 | --- Dinner @ Garden Restraurant Robinson College ---                                      |                                         |                                                              |                                             |
+| 19:00 | Open Program: e.g., hang out at College Bar                                               |                                         |                                                              |                                             |             
 | 23:30 | Last Drinks in College Bar                                                                |                                         |                                                              |                                             |
 | 00:00 | College Bar Closes                                                                        |                                         |                                                              |                                             |
 
@@ -65,7 +65,7 @@ This session is ideal for both newcomers and experienced MLIR users interested i
                                                                                                     
 ## Day 3 | Wednesday, Sep 10                                                                        
 
-| Time  |  MLIR Core & Ground Floor                                                                 | Specialized Track                 |
+| Time  |  MLIR Core & Ground Floor                                                                 | Specialized Track        |
 |-----: |:------------------------------------------------------------------------------------------| ------------------------ |
 |  9:00 | --- Arrival ---                                                                           |                          |
 |  9:30 | **Hackathon / MLIR Clinic**                                                               |                          |
@@ -76,28 +76,28 @@ This session is ideal for both newcomers and experienced MLIR users interested i
 | 15:00 | --- Coffee ---                                                                            |                          |
 | 15:30 | Social Event(s)                                                                           |                          |
 | 17:00 | End of day program                                                                        |                          |
-| 18:30 | --- Dinner ---                                                                            |                          |
-| 21:00 | Open Program: e.g., hang out at College Bar                                               |                          |
+| 18:00 | --- Dinner @ Garden Restraurant Robinson College ---                                      |                          |
+| 19:00 | Open Program: e.g., hang out at College Bar                                               |                          |
 | 23:30 | Last Drinks in College Bar                                                                |                          |
 | 00:00 | College Bar Closes                                                                        |                          |
 
 ## Day 4 | Thursday, Sep 11
 
-| Time  |  MLIR Core & Ground Floor                                           | Specialized Track                 |
-|-----: |:------------------------------------------------------------------- | ------------------------ |
-|  9:00 | --- Arrival ---                                                     |                          |
-|  9:30 | **Hackathon**                                         |                          |
-| 10:30 | --- Coffee ---                                                      |                          |
-| 11:00 | **Hackathon**                                          |                          |
-| 12:30 | --- Lunch ---                                                       |                          |
-| 13:30 | **Schedule Loop Nests with Transform** <br> *Alex Zinenko*   | Expert Track & Free Hack |
-| 15:00 | --- Coffee ---                                                      |                          |
-| 15:30 | **Discover Low-Level MLIR Abstractions** <br> *Kunwar Grover*           | Expert Track & Free Hack |
-| 17:00 | End of day program                                                  |                          |
-| 18:30 | --- Dinner ---                                               |                          |
-| 21:00 | Open Program: e.g., hang out at College Bar                         |                          |
-| 23:30 | Last Drinks in College Bar                                          |                          |
-| 00:00 | College Bar Closes                                                  |                          |
+| Time  |  MLIR Core & Ground Floor                                                                 | Specialized Track        |
+|-----: |:------------------------------------------------------------------------------------------| ------------------------ |
+|  9:00 | --- Arrival ---                                                                           |                          |
+|  9:30 | **Hackathon**                                                                             |                          |
+| 10:30 | --- Coffee ---                                                                            |                          |
+| 11:00 | **Hackathon**                                                                             |                          |
+| 12:30 | --- Lunch ---                                                                             |                          |
+| 13:30 | **Schedule Loop Nests with Transform** <br> *Alex Zinenko*                                | Expert Track & Free Hack |
+| 15:00 | --- Coffee ---                                                                            |                          |
+| 15:30 | **Discover Low-Level MLIR Abstractions** <br> *Kunwar Grover*                             | Expert Track & Free Hack |
+| 17:00 | End of day program                                                                        |                          |
+| 18:00 | --- Dinner @ Garden Restraurant Robinson College ---                                      |                          |
+| 19:00 | Open Program: e.g., hang out at College Bar                                               |                          |
+| 23:30 | Last Drinks in College Bar                                                                |                          |
+| 00:00 | College Bar Closes                                                                        |                          |
 
 ## Day 5 | Friday, Sep 12
 
