@@ -24,6 +24,8 @@ permalink: /schedule/
 | 17:45 | --- Drink Reception ---					                                                |                                         |                                                              |                                             |             
 | 18:30 | --- Formal Dinner ---                                                                     |                                         |                                                              |                                             |
 | 21:00 | Open Program: e.g., hang out at college bar                                               |                                         |                                                              |                                             |
+| 23:30 | Last Drinks in College Bar                                                                |                                         |                                                              |                                             |
+| 00:00 | College Bar Closes                                                                        |                                         |                                                              |                                             |
 
 ## Day 2 | Tuesday, Sep 9
 
@@ -41,6 +43,8 @@ permalink: /schedule/
 | 17:00 | End of day program                                                                        |                                         |                                                              |                                             |
 | 18:30 | --- Dinner ---                                                                            |                                         |                                                              |                                             |
 | 21:00 | Open Program: e.g., hang out at College Bar                                               |                                         |                                                              |                                             |             
+| 23:30 | Last Drinks in College Bar                                                                |                                         |                                                              |                                             |
+| 00:00 | College Bar Closes                                                                        |                                         |                                                              |                                             |
 
 <br>
 <div style="font-size: 0.8em">
@@ -74,6 +78,8 @@ This session is ideal for both newcomers and experienced MLIR users interested i
 | 17:00 | End of day program                                                                        |                          |
 | 18:30 | --- Dinner ---                                                                            |                          |
 | 21:00 | Open Program: e.g., hang out at College Bar                                               |                          |
+| 23:30 | Last Drinks in College Bar                                                                |                          |
+| 00:00 | College Bar Closes                                                                        |                          |
 
 ## Day 4 | Thursday, Sep 11
 
@@ -90,6 +96,8 @@ This session is ideal for both newcomers and experienced MLIR users interested i
 | 17:00 | End of day program                                                  |                          |
 | 18:30 | --- Dinner ---                                               |                          |
 | 21:00 | Open Program: e.g., hang out at College Bar                         |                          |
+| 23:30 | Last Drinks in College Bar                                          |                          |
+| 00:00 | College Bar Closes                                                  |                          |
 
 ## Day 5 | Friday, Sep 12
 
