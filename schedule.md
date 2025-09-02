@@ -88,6 +88,12 @@ See [Open Day - MLIR (Un)School Meets Compiler Community](/open-friday).
 
 # Talk Abstracts
 
+<div style="font-size: 0.8em">
+
+<p><b style="font-size: 1.2em">Introduction To MLIR - hands on</b>, <i>Sasha Lopoukhine, Mathieu Fehr, Théo Degioanni</i></p>
+This hands-on, introductory class is your perfect entry point to MLIR (Multi-Level Intermediate Representation). We will start from the ground up, demystifying what MLIR is and exploring its intermediate representation (IR) through a simple array DSL. Through a series of interactive examples, you will learn how to understand MLIR IR and apply passes to transform it. We'll demonstrate the power and benefits of defining your own MLIR dialect and progressively lower code from a high-level representation to a lower-level one. By the end of this session, you will have the keys to understand MLIR foundations, and what you could do with it in your projects.
+</div>
+
 <br>
 <div style="font-size: 0.8em">
 
