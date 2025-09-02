@@ -36,3 +36,11 @@ We identified a set of [technical themes](themes) which we will innovate on.
 
 {% include feature_row id="feature_row_overview" %}
 
+
+
+{: .text-center}
+**Partners:**
+
+{: .text-center}
+![INRIA logo](/images/inria_logo.png){: width="20%"} 
+![Google logo](/images/google_logo.png){: width="20%"}
