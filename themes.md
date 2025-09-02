@@ -37,7 +37,7 @@ For a long time, performance engineers had to choose between relying on the frag
 
 These approaches have now been adopted in MLIR through the [Transform dialect](https://mlir.llvm.org/docs/Dialects/Transform/), where the ecosystem of dialects allows for precise manipulation of computations at various levels of abstraction. New opportunities are emerging, both for manual optimization and for autotuning. What is the next step?
 
-### Backends and Code Generation
+### Backends and Code Generation | Fabrice Rastello | INRIA
 
 Today, most MLIR-based compilation pipelines still rely on the traditional LLVM backend for the final lowering stages. After transformations in MLIR, the IR is typically handed off to ```opt``` and ```llc``` for code generation, leaving the instruction selection, register allocation, and low-level optimizations to the classic LLVM toolchain. While this leverages a mature and battle-tested backend, it also imposes a boundary: once lowered to LLVM IR, the benefits of MLIR’s structured abstractions are lost.
 
