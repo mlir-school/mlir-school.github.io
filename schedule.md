@@ -29,7 +29,7 @@ permalink: /schedule/
 
 ## Day 2 | Tuesday, Sep 9
 
-| Time  |  MLIR Core & Ground Floor                                                                 | Specialized 1                              | Specialized 2                                                   | Specialized 3                                  |
+| Time  |  MLIR Core @ Ground Floor                                                                 | Specialized 1                              | Specialized 2                                                   | Specialized 3                                  |
 |-----: |:------------------------------------------------------------------------------------------| ----------------------------------------| -------------------------------------------------------------| --------------------------------------------|
 |  9:00 | --- Arrival ---                                                                           |                                         |                                                              |                                             |
 |  9:30 | **Report from Expert Sessions on Plan for Week**                                          |                                         |                                                              |                                             |
@@ -48,7 +48,7 @@ permalink: /schedule/
 
 ## Day 3 | Wednesday, Sep 10                                                                        
 
-| Time  |  MLIR Core & Ground Floor                                                                 | Specialized Track        |
+| Time  |  MLIR Core @ Ground Floor                                                                 | Specialized Track        |
 |-----: |:------------------------------------------------------------------------------------------| ------------------------ |
 |  9:00 | --- Arrival ---                                                                           |                          |
 |  9:30 | **Hackathon / MLIR Clinic**                                                               |                          |
@@ -66,7 +66,7 @@ permalink: /schedule/
 
 ## Day 4 | Thursday, Sep 11
 
-| Time  |  MLIR Core & Ground Floor                                                                 | Specialized Track        |
+| Time  |  MLIR Core @ Ground Floor                                                                 | Specialized Track        |
 |-----: |:------------------------------------------------------------------------------------------| ------------------------ |
 |  9:00 | --- Arrival ---                                                                           |                          |
 |  9:30 | **Hackathon**                                                                             |                          |
