@@ -42,5 +42,5 @@ We identified a set of [technical themes](themes) which we will innovate on.
 **Partners:**
 
 {: .text-center}
-![INRIA logo](/images/inria_logo.png){: width="20%"} 
-![Google logo](/images/google_logo.png){: width="20%"}
+![INRIA logo](/images/inria_logo.png){: width="25%"} 
+![Google logo](/images/google_logo.png){: width="25%"}
