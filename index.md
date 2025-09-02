@@ -47,3 +47,6 @@ We identified a set of [technical themes](themes) which we will innovate on.
 
 {: .text-center}
 ![Google logo](/images/google_logo.png){: width="25%"}
+
+{: .text-center}
+![Qualcomm logo](/images/qualcomm_logo.png){: width="30%"}
