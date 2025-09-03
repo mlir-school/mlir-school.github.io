@@ -22,7 +22,7 @@ register.
 
 ## Schedule | Friday, Sep 12th
 
-9:00 - 17:00, details follow soon
+9:30 - 17:00, details follow soon
 
 ## Location
 
