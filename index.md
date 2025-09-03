@@ -51,5 +51,5 @@ We identified a set of [technical themes](themes) which we will innovate on.
 {: .text-center}
 ![Ethereum logo](/images/ethereum_logo.png){: width="25%"}
 
-<!-- {: .text-center} -->
-<!-- ![Qualcomm logo](/images/qualcomm_logo.png){: width="30%"} -->
+{: .text-center}
+![Qualcomm logo](/images/qualcomm_logo.png){: width="30%"}
