@@ -31,12 +31,12 @@ register.
 | 11:00 | **Scaling ML models with MLIR-based partitioners: an intro to Shardy + MPMD - Joel Wee @ Google DeepMind** |
 | | As machine learning models grow to billions or even trillions of parameters, they can no longer fit onto a single accelerator. However, partitioning these models can be complicated, and there is often a tradeoff between research velocity and efficient hardware utilization. To this end, we have built Shardy and Shardy:MPMD, MLIR-based partitioning systems aimed at effortlessly partitioning these large ML models while retaining single-device programming semantics. *Bio: Joel is a software engineer at Google DeepMind, working on compilers for ML performance – PartIR and Shardy:MPMD in particular. Prior to this, he worked on other non-compiler software (e.g. distributed computing, etc.).*
 | 11:30 | -- Break -- |
-| 12:00 | **TileIR - Théo Degioanni & Lorenzo Chelini** |
+| 12:00 | **TileIR - Théo Degioanni & Lorenzo Chelini @ NVIDIA** |
 | 12:30 | **XTC, a research platform for ML compilation - Christophe Guillon @ INRIA** |
 || In this talk, we introduce XTC (Xdsl Transform Compiler), a compiler framework that provides high-level scheduling specifications for linear algebra operations over dataflow graphs. We present a practical use case where we define an operational graph and apply a scheduling strategy to it. We then generate several variants of the scheduled graph using predefined strategy parameters, targeting both the TVM and MLIR backends to produce optimized executables. Finally, we run a basic auto-tuning loop to explore the scheduling space and identify the best-performing set of parameters, illustrating how XTC bridges abstract algorithm definitions with efficient, backend-specific implementations. *Bio: Christophe Guillon is a senior research engineer at INRIA Grenoble.  He has been working on compiler IRs, backend optimizations and auto-tuning strategies for C/C++ compilers. He is currently exploring compilation for ML DSLs, performance modeling and iterative optimization.||
 | 13:00 | --- Lunch ---                                                       |
 | 14:00 | **Summer School Lightning Talks**                                   |
-| 15:30 | --- Coffee && Poster Session & Social**                            |
+| 15:30 | --- Coffee & Social | Bring posters if you feel like it**           |
 | 17:00 | End of day program                                                  |
 
 
