@@ -39,7 +39,7 @@ register.
 || In this talk, we introduce XTC (Xdsl Transform Compiler), a compiler framework that provides high-level scheduling specifications for linear algebra operations over dataflow graphs. We present a practical use case where we define an operational graph and apply a scheduling strategy to it. We then generate several variants of the scheduled graph using predefined strategy parameters, targeting both the TVM and MLIR backends to produce optimized executables. Finally, we run a basic auto-tuning loop to explore the scheduling space and identify the best-performing set of parameters, illustrating how XTC bridges abstract algorithm definitions with efficient, backend-specific implementations. *Bio: Christophe Guillon is a senior research engineer at INRIA Grenoble.  He has been working on compiler IRs, backend optimizations and auto-tuning strategies for C/C++ compilers. He is currently exploring compilation for ML DSLs, performance modeling and iterative optimization.*||
 | 13:00 | --- Lunch ---                                                       |
 | 14:00 | **Summer School Lightning Talks**                                   |
-| 15:30 | --- Coffee & Social - Bring posters if you feel like it ---           |
+| 15:30 | --- Social - Bring posters if you feel like it ---           |
 | 17:00 | End of day program                                                  |
 
 
