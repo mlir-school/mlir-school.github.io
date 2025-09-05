@@ -73,7 +73,7 @@ permalink: /schedule/
 | 10:30 | --- Coffee ---                                                                            |                          |
 | 11:00 | **Hackathon**                                                                             |                          |
 | 12:30 | --- Lunch ---                                                                             |                          |
-| 13:30 | **Schedule Loop Nests with Transform** <br> *Alex Zinenko*                                | Expert Track & Free Hack |
+| 13:30 | **[Schedule Loop Nests with Transform](#transform)** <br> *Alex Zinenko*                                | Expert Track & Free Hack |
 | 15:00 | --- Coffee ---                                                                            |                          |
 | 15:30 | **Discover Low-Level MLIR Abstractions** <br> *Kunwar Grover*                             | Expert Track & Free Hack |
 | 17:00 | End of day program                                                                        |                          |
@@ -137,7 +137,7 @@ This session is ideal for both newcomers and experienced MLIR users interested i
 <br>
 <div style="font-size: 0.8em">
 
-<p><a id="interfaces" class="anchor"><b style="font-size: 1.2em">Schedule Loop Nests with Transform</b></a>, <i>Alex Zinenko</i></p>
+<p><a id="transform" class="anchor"><b style="font-size: 1.2em">Schedule Loop Nests with Transform</b></a>, <i>Alex Zinenko</i></p>
 
 MLIR features support for declaratively specifying and controlling compiler transformations via the transform dialect. It allows one to request compiler transformations using compiler IR itself, which can be embedded into the original IR that is being transformed (similarly to pragmas) or supplied separately (similarly to scheduling languages). This talk presents the concepts of the MLIR transform dialect and related infrastructure. It will be accompanied by a practical demonstration of three use scenarios centered on loop optimization. After following the task, the attendees will be able to apply the transform dialect in their work and extend it when necessary. Basic familiarity with MLIR is a prerequisite.
 </div> 
