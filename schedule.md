@@ -137,7 +137,7 @@ This session is ideal for both newcomers and experienced MLIR users interested i
 <br>
 <div style="font-size: 0.8em">
 
-<p><b style="font-size: 1.2em">Schedule Loop Nests with Transform</b>, <i>Alex Zinenko</i></p>
+<p><a id="interfaces" class="anchor"><b style="font-size: 1.2em">Schedule Loop Nests with Transform</b></a>, <i>Alex Zinenko</i></p>
 
 MLIR features support for declaratively specifying and controlling compiler transformations via the transform dialect. It allows one to request compiler transformations using compiler IR itself, which can be embedded into the original IR that is being transformed (similarly to pragmas) or supplied separately (similarly to scheduling languages). This talk presents the concepts of the MLIR transform dialect and related infrastructure. It will be accompanied by a practical demonstration of three use scenarios centered on loop optimization. After following the task, the attendees will be able to apply the transform dialect in their work and extend it when necessary. Basic familiarity with MLIR is a prerequisite.
 </div> 
