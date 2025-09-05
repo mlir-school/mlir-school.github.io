@@ -18,7 +18,7 @@ On Friday, the (Un)School will shift to the William Gates Building for the [Open
 
 ### Accommodation
 
-If the event is hosting you, you will be hosted in Robinson College itself, and [the same instructions on how to get to Robinson College.](https://www.robinson.cam.ac.uk/contact-us/visiting-robinson/public-transport). Please check-in at the Robinson College Porters' Lodge at any time after 1.30 PM. They are open 24/7 for check-in at any time afterwards.
+If you booked accommodation, you will be staying in Robinson College and [the same instructions on how to get there apply](https://www.robinson.cam.ac.uk/contact-us/visiting-robinson/public-transport). Please check-in at the Robinson College Porters' Lodge at any time after 1.30 PM. They are open 24/7 for check-in at any time afterwards.
 
 Please take note that if you are planning to take the university buses, the last U bus on Sunday departs the station at 8.39 PM.
 
@@ -35,6 +35,7 @@ Details on what is available in the college accommodations can be found on the R
 **What meals are provided for me?**
 
 Every morning and during the coffee breaks, coffee and pastries will be available at Crausworth Wordsworth Building foyer.
+
 Lunch and dinner is catered for all attendees. 
 
 If you stay in accommodation, there is additional breakfast available at the Garden Restaurant.
