@@ -38,8 +38,6 @@ permalink: /schedule/
 | 11:30 | **Peer-to-Peer Skillshare**                                                               |                                         |                                                              |                                             |
 | 12:30 | --- Lunch ---                                                                             |                                         |                                                              |                                             |
 | 13:30 | **[Define And Lower Your New Dialect](#define-dialects)** <br> *Sylvain Noiry*            | **Quantum Computing**<br> Samin Ishtiaq | **Crypto & Zero Knowledge**<br> Alexander Viand              | **Backend and ISA** <br> Fabrice Rastello & Ayal Zaks   |
-
-
 | 15:00 | --- Coffee ---                                                                            |                                         |                                                              |                                             |
 | 15:30 | **[Understanding Interfaces](#interfaces)** <br> *Matthias Springer*                      | **Formal Semantics**<br> Tobias Grosser | **Scheduling & Search Space Exploration** <br> Alex Zinenko  | **Hardware Accelerators** <br> Kunwar Grover|
 | 17:00 | End of day program                                                                        |                                         |                                                              |                                             |
