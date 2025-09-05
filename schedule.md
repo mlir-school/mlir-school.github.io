@@ -17,7 +17,7 @@ permalink: /schedule/
 | 11:00 | --- Coffee ---                                                                            |                                         |                                                              |                                             |
 | 11:30 | **Introductory sessions II** <br> Moderation: *Tobias Grosser & Alexander Viand*          |                                         |                                                              |                                             |
 | 12:30 | --- Lunch ---                                                                             |                                         |                                                              |                                             |
-| 13:30 | **Introduction To MLIR - hands on** <br> *Theo Degioanni, Mathieu Fehr, Sasha Lopoukhine* | **Formal**<br> Leo Stefanesco           | **Scheduling & Search Space Exploration** <br> Alex Zinenko  | **Hardware Accelerators** <br> Kunwar Grover|
+| 13:30 | **[Introduction To MLIR - hands on](#intro-hands-on)** <br> *Theo Degioanni, Mathieu Fehr, Sasha Lopoukhine* | **Formal**<br> Leo Stefanesco           | **Scheduling & Search Space Exploration** <br> Alex Zinenko  | **Hardware Accelerators** <br> Kunwar Grover|
 | 15:00 | --- Coffee ---                                                                            |                                         |                                                              |                                             |
 | 15:30 | **Introduction To MLIR - deep dive** <br> *Mehdi Amini*                                   | **Quantum Computing**<br> Samin Ishtiaq | **Crypto & Zero Knowledge**<br> Alexander Viand              | **Backend and ISA** <br> Fabrice Rastello & Ayal Zaks                   |
 | 17:00 | End of day program                                                                        |                                         |                                                              |                                             |
@@ -37,9 +37,9 @@ permalink: /schedule/
 | 11:00 | --- Coffee ---                                                                            |                                         |                                                              |                                             |
 | 11:30 | **Peer-to-Peer Skillshare**                                                               |                                         |                                                              |                                             |
 | 12:30 | --- Lunch ---                                                                             |                                         |                                                              |                                             |
-| 13:30 | **Define And Lower Your New Dialect** <br> *Sylvain Noiry*                                | **Formal**<br> Leo Stefanesco           | **Scheduling & Search Space Exploration** <br> Alex Zinenko  | **Hardware Accelerators** <br> Kunwar Grover|
+| 13:30 | **[Define And Lower Your New Dialect](#define-dialects)** <br> *Sylvain Noiry*                                | **Formal**<br> Leo Stefanesco           | **Scheduling & Search Space Exploration** <br> Alex Zinenko  | **Hardware Accelerators** <br> Kunwar Grover|
 | 15:00 | --- Coffee ---                                                                            |                                         |                                                              |                                             |
-| 15:30 | **Understanding Interfaces** <br> *Matthias Springer*                                     | **Quantum Computing**<br> Samin Ishtiaq | **Crypto & Zero Knowledge**<br> Alexander Viand              | **Backend and ISA** <br> Fabrice Rastello & Ayal Zaks   |
+| 15:30 | **[Understanding Interfaces](#interfaces)** <br> *Matthias Springer*                                     | **Quantum Computing**<br> Samin Ishtiaq | **Crypto & Zero Knowledge**<br> Alexander Viand              | **Backend and ISA** <br> Fabrice Rastello & Ayal Zaks   |
 | 17:00 | End of day program                                                                        |                                         |                                                              |                                             |
 | 18:00 | --- Dinner @ Garden Restaurant Robinson College ---                                       |                                         |                                                              |                                             |
 | 19:00 | Open Program: e.g., hang out at College Bar                                               |                                         |                                                              |                                             |             
@@ -88,15 +88,28 @@ See [Open Day - MLIR (Un)School Meets Compiler Community](/open-friday).
 
 # Talk Abstracts
 
+<style type="text/css">
+  a.anchor {
+    color: rgb(61, 65, 68);
+    text-decoration: none;
+    cursor: default
+  }
+  a.anchor:hover {
+    color: rgb(61, 65, 68);
+    text-decoration: none;
+    cursor: default
+  }
+</style>
+
 <div style="font-size: 0.8em">
 
-<p><b style="font-size: 1.2em">Introduction To MLIR - hands on</b>, <i>Sasha Lopoukhine, Mathieu Fehr, Théo Degioanni</i></p>
+<p><a id="intro-hands-on" class="anchor"><b style="font-size: 1.2em">Introduction To MLIR - hands on</b></a>, <i>Sasha Lopoukhine, Mathieu Fehr, Théo Degioanni</i></p>
 This hands-on, introductory class is your perfect entry point to MLIR (Multi-Level Intermediate Representation). We will start from the ground up, demystifying what MLIR is and exploring its intermediate representation (IR) through a simple array DSL. Through a series of interactive examples, you will learn how to understand MLIR IR and apply passes to transform it. We'll demonstrate the power and benefits of defining your own MLIR dialect and progressively lower code from a high-level representation to a lower-level one. By the end of this session, you will have the keys to understand MLIR foundations, and what you could do with it in your projects.
 </div>
 
 <br>
 <div style="font-size: 0.8em">
-<p><b style="font-size: 1.2em">Define And Lower Your New Dialect</b>, <i>Sylvain Noiry</i></p>
+<p><a id="define-dialects" class="anchor"><b style="font-size: 1.2em">Define And Lower Your New Dialect</b></a>, <i>Sylvain Noiry</i></p>
 In this hands-on session, you will learn how to create the “List” dialect, introduced in the first lesson. You will practice in an out-of-tree MLIR project and develop your dialect in the standard way, without using xDSL or IRDL. This will give you an opportunity to apply the concepts learned in the previous lessons.
 
 The session is organized into multiple exercises, each exploring a different aspect of dialect creation. Every exercise comes with a README, hints, and links to the portion of the official MLIR documentation. You can progress in the exercises either with the teachers or at your own pace.
@@ -107,7 +120,7 @@ The goal is to provide you with both the knowledge and a project template to hel
 <br>
 <div style="font-size: 0.8em">
 
-<p><b style="font-size: 1.2em">Understanding Interfaces</b>, <i>Matthias Springer</i></p>
+<p><a id="interfaces" class="anchor"><b style="font-size: 1.2em">Understanding Interfaces</b></a>, <i>Matthias Springer</i></p>
 
 Interfaces are a cornerstone of extensibility and modularity in MLIR. This session covers operation interfaces, type interfaces and attribute interfaces, and how to design and implement them. The main part of the session will focus on existing core interfaces in MLIR. Attendees will gain insight into how interfaces drive analyses and transformations, improve code structure, and facilitate scalable compiler development.
 Topics Covered:
