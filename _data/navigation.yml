@@ -5,6 +5,8 @@ main:
     url: /themes/
   - title: "Schedule"
     url: /schedule/
+  - title: "Logistics"
+    url: /logistics/
   - title: "Open Friday"
     url: /open-friday/
   - title: "Organization"
