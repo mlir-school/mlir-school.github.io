@@ -10,7 +10,7 @@ The event is being hosted by Robinson College.
 
 The conference is hosted in the Robinson College [Crausaz Wordsworth Building](https://www.robinson.cam.ac.uk/conferences/meet/crausaz-wordsworth-building). Instructions on how to get to Robinson College from Cambridge Station can be found on the [Robinson College website](https://www.robinson.cam.ac.uk/contact-us/visiting-robinson/public-transport). 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d20783.14535153185!2d0.10331258305379011!3d52.20681329559315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d870b142eed76b%3A0x576ce34c87efbddd!2sCrausaz%20Wordsworth%20Building%2C%20Robinson%20College!5e0!3m2!1sen!2suk!4v1757071303081!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2038.3355040998117!2d0.10293745888900475!3d52.20532232018525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d870b142eed76b%3A0x576ce34c87efbddd!2sCrausaz%20Wordsworth%20Building%2C%20Robinson%20College!5e0!3m2!1sen!2suk!4v1757071861284!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Accommodation
 
