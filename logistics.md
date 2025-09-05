@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Getting Here"
+title: "Event Logistics"
 permalink: /logistics/
 header:
   overlay_color: "#000"
