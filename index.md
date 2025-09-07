@@ -23,7 +23,7 @@ feature_row_overview:
     excerpt: "MLIR empowers experts across domains! Our interactive mini workshops enable expert collaboration across **scheduling languages**, **formal methods**, **hardware verification**, **quantum computing**, **crypto** and **AI**. Connect with motivated students and shape the MLIR community for your domain!"
 ---
 
-**Note:** Registration for the (Un)School has closed. Register for our [Open Friday](/open-friday) on Friday, September 12, with larger capacity and free attendence.
+**Note:** Registration for the (Un)School has closed. Register for our [Open Friday](/open-friday) on Friday, September 12, with larger capacity and free attendance.
 {: .notice--info}
 
 
