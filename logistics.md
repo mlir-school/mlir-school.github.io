@@ -40,9 +40,7 @@ Lunch and dinner is catered for all attendees.
 
 If you stay in accommodation, there is additional breakfast available at the Garden Restaurant.
 
-### Some good restaurants
-
-Restaurants we like:
+### Restaurant Ideas
 
 * West Hub @ 11:50 - The Champion Of Our Hearts <3
 * Pizza Pilgrims - the go-to destination for lab meals, and described by Luisa as the closest to Italian pizza that she's had in the UK.  Right in the centre of town on Market Sq.
