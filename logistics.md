@@ -49,7 +49,7 @@ If you stay in accommodation, there is additional breakfast available at the Gar
 * Little Petra - Jordanian food, well-known to be one of the absolute best places to eat in Cambridge. Delicious but hard to get a table (going slightly early works wonders). They also do very good mango milkshakes
 * Bread and Meat - small place near Market Square that does incredible sandwiches (as well as extremely good milkshakes). Pretty expensive for sandwiches but they're delicious enough to be worth it. Honey soy chicken is a common favourite, but they're all pretty good. Potato wedges are disappointing though, don't bother.
 * The W - bar & restaurant right across the road from the lab (inside the West Hub). It's a bit pricey, but the food is decent and it's convenient for dinner if you're working late at the lab.
-* [Your Dumplings](https://maps.app.goo.gl/p5Q2YWRccCwMDFt77): Dumplings on King Street (Mathieu thinks they're too expensive)
+* [Your Dumplings](https://maps.app.goo.gl/p5Q2YWRccCwMDFt77): Dumplings on King Street (go for the noodles) (Mathieu thinks they're too expensive)
 * Carlos BBQ - cheap but very good wraps and grill on Mill Road. Halloumi wrap is excellent.
 * [Butch Annie's](https://maps.app.goo.gl/QD1H7VfHuwoPw6PJ6): Best burgers in Cambridge (until proven wrong).
 * [Moana Poke Bowls](https://maps.app.goo.gl/isqZ4UzmCFa1TGee9): Healthy (and tasty) poke bowls.
