@@ -39,3 +39,22 @@ Every morning and during the coffee breaks, coffee and pastries will be availabl
 Lunch and dinner is catered for all attendees. 
 
 If you stay in accommodation, there is additional breakfast available at the Garden Restaurant.
+
+### Some good restaurants
+
+Restaurants we like:
+
+* West Hub @ 11:50 - The Champion Of Our Hearts <3
+* Pizza Pilgrims - the go-to destination for lab meals, and described by Luisa as the closest to Italian pizza that she's had in the UK.  Right in the centre of town on Market Sq.
+* Yori - decent Korean BBQ, but not as good as the one in Edinburgh :( Nice central location in town
+* Sala Thong - very good Thai food, with an iced tea that Mathieu believes is the best drink ever (and no-one else likes). Slighly more out of the way, down by Darwin, but still easy to get to from town/the lab
+* Efes - delicious Turkish place behind Christ's (and an old undergrad haunt of Sasha's). Very juicy meat (I recommend the mixed kebab for meat eaters but be warned that it is a lot of food).
+* Little Petra - Jordanian food, well-known to be one of the absolute best places to eat in Cambridge. Delicious but hard to get a table (going slightly early works wonders). They also do very good mango milkshakes
+* Bread and Meat - small place near Market Square that does incredible sandwiches (as well as extremely good milkshakes). Pretty expensive for sandwiches but they're delicious enough to be worth it. Honey soy chicken is a common favourite, but they're all pretty good. Potato wedges are disappointing though, don't bother.
+* The W - bar & restaurant right across the road from the lab (inside the West Hub). It's a bit pricey, but the food is decent and it's convenient for dinner if you're working late at the lab.
+* [Your Dumplings](https://maps.app.goo.gl/p5Q2YWRccCwMDFt77): Dumplings on King Street (Mathieu thinks they're too expensive)
+* Carlos BBQ - cheap but very good wraps and grill on Mill Road. Halloumi wrap is excellent.
+* [Butch Annie's](https://maps.app.goo.gl/QD1H7VfHuwoPw6PJ6): Best burgers in Cambridge (until proven wrong).
+* [Moana Poke Bowls](https://maps.app.goo.gl/isqZ4UzmCFa1TGee9): Healthy (and tasty) poke bowls.
+* [Bedouin](https://www.bedouin-cambridge.com/): North African food. Always full, so make a reservation in advance.
+* [Dishoom](https://www.permitroom.co.uk/locations/cambridge/): Really good Indian food - the crispy spinach chaat and the black daal are really good.
