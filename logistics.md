@@ -42,7 +42,6 @@ If you stay in accommodation, there is additional breakfast available at the Gar
 
 ### Restaurant Ideas
 
-* West Hub @ 11:50 - The Champion Of Our Hearts <3
 * Pizza Pilgrims - the go-to destination for lab meals, and described by Luisa as the closest to Italian pizza that she's had in the UK.  Right in the centre of town on Market Sq.
 * Yori - decent Korean BBQ, but not as good as the one in Edinburgh :( Nice central location in town
 * Sala Thong - very good Thai food, with an iced tea that Mathieu believes is the best drink ever (and no-one else likes). Slighly more out of the way, down by Darwin, but still easy to get to from town/the lab
