@@ -75,7 +75,7 @@ permalink: /schedule/
 | 12:30 | --- Lunch ---                                                                             |                          |
 | 13:30 | **[Schedule Loop Nests with Transform](#transform)** <br> *Alex Zinenko*                                | Expert Track & Free Hack |
 | 15:00 | --- Coffee ---                                                                            |                          |
-| 15:30 | **Discover Low-Level MLIR Abstractions** <br> *Kunwar Grover*                             | Expert Track & Free Hack |
+| 15:30 | **[Discover Low-Level MLIR Abstractions](#lowlevelabs)** <br> *Kunwar Grover*                             | Expert Track & Free Hack |
 | 17:00 | End of day program                                                                        |                          |
 | 18:00 | --- Dinner @ Garden Restaurant Robinson College ---                                       |                          |
 | 19:00 | Open Program: e.g., hang out at College Bar                                               |                          |
@@ -141,3 +141,17 @@ This session is ideal for both newcomers and experienced MLIR users interested i
 
 MLIR features support for declaratively specifying and controlling compiler transformations via the transform dialect. It allows one to request compiler transformations using compiler IR itself, which can be embedded into the original IR that is being transformed (similarly to pragmas) or supplied separately (similarly to scheduling languages). This talk presents the concepts of the MLIR transform dialect and related infrastructure. It will be accompanied by a practical demonstration of three use scenarios centered on loop optimization. After following the task, the attendees will be able to apply the transform dialect in their work and extend it when necessary. Basic familiarity with MLIR is a prerequisite.
 </div> 
+
+<br>
+<div style="font-size: 0.8em">
+
+<p><a id="lowlevelabs" class="anchor"><b style="font-size: 1.2em">Discover Low-Level MLIR Abstractions/b></a>, <i>Kunwar Grover</i></p>
+
+One of the best ways to learn how to use MLIR is to build a language that you
+can interact with and play around with. MLIR is "batteries included", and has
+multiple dialects and transformations that exist in-tree, which are enough to
+build a simple vector math DSL. In this lesson, we will aim to learn how to
+move into and out of the MLIR ecosystem, moving in from a DSL frontend, getting
+out to LLVM IR towards assembly, and using this DSL from a general purpose
+programming language like Python.
+</div>
