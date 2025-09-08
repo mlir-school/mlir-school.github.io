@@ -145,7 +145,7 @@ MLIR features support for declaratively specifying and controlling compiler tran
 <br>
 <div style="font-size: 0.8em">
 
-<p><a id="lowlevelabs" class="anchor"><b style="font-size: 1.2em">Discover Low-Level MLIR Abstractions/b></a>, <i>Kunwar Grover</i></p>
+<p><a id="lowlevelabs" class="anchor"><b style="font-size: 1.2em">Discover Low-Level MLIR Abstractions</b></a>, <i>Kunwar Grover</i></p>
 
 One of the best ways to learn how to use MLIR is to build a language that you
 can interact with and play around with. MLIR is "batteries included", and has
