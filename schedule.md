@@ -66,14 +66,14 @@ permalink: /schedule/
 
 ## Day 4 | Thursday, Sep 11
 
-| Time  |  MLIR Core @ Ground Floor                                                                 | Specialized Track        |
+| Time  |  MLIR Core @ Ground Floor                                                                 | Specialized 1        |
 |-----: |:------------------------------------------------------------------------------------------| ------------------------ |
 |  9:00 | --- Arrival ---                                                                           |                          |
 |  9:30 | **Hackathon**                                                                             |                          |
 | 10:30 | --- Coffee ---                                                                            |                          |
 | 11:00 | **Hackathon**                                                                             |                          |
 | 12:30 | --- Lunch ---                                                                             |                          |
-| 13:30 | **[Schedule Loop Nests with Transform](#transform)** <br> *Alex Zinenko*                                | Expert Track & Free Hack |
+| 13:30 | **[Schedule Loop Nests with Transform](#transform)** <br> *Alex Zinenko*                                | **Software Pipelining for Kernel Code Generation** <br> Benoît Dupont de Dinechin |
 | 15:00 | --- Coffee ---                                                                            |                          |
 | 15:30 | **[Discover Low-Level MLIR Abstractions](#lowlevelabs)** <br> *Kunwar Grover*                             | Expert Track & Free Hack |
 | 17:00 | End of day program                                                                        |                          |
@@ -154,4 +154,27 @@ build a simple vector math DSL. In this lesson, we will aim to learn how to
 move into and out of the MLIR ecosystem, moving in from a DSL frontend, getting
 out to LLVM IR towards assembly, and using this DSL from a general purpose
 programming language like Python.
+</div>
+
+<br>
+<div style="font-size: 0.8em">
+
+<p><a id="kalray" class="anchor"><b style="font-size: 1.2em">Software Pipelining for Kernel Code Generation</b></a>, <i>Benoît Dupont de Dinechin</i></p>
+
+Kalray has a deep learning graph compiler in production, which targets
+a manycore processor built  from VLIW cores. This Kalray graph
+compiler relies on a library of tensor processing kernels, most of
+which have been manually optimized and software pipelined. A key
+challenge is automating software pipelining for tensor processing
+kernels. We first review the principles and implementation of software
+pipeliners by modulo scheduling in C/C++ compilers. We then outline a
+new modulo scheduling approach, currently prototyped in GCC, which we
+plan to move to a MLIR-based kernel compiler.
+<br><br>
+Bio: Benoît Dupont de Dinechin
+(https://sites.google.com/site/benoitdinechin) is CTO at Kalray. He
+directly contributed to the design and implementation of production
+compilers with software pipelining at Cray Research,
+STMicroelectronics, and Kalray. He is also the co-architect of the
+Kalray VLIW cores and their tensor operators.
 </div>
