@@ -53,8 +53,8 @@ permalink: /schedule/
 |-----: |:------------------------------------------------------------------------------------------| ------------------------ | -- | -- |
 |  9:00 | --- Arrival ---                                                                           |                          |  |  |
 |  9:30 | **Hackathon / MLIR Clinic**                                                               |  **Working Group for Polyhedral Model in MLIR** <br> *Guillaume Iooss* | **Transactional Compilation**<br>*Fabrice Rastello*| **Defining Dialects Declaratively: The IRDL Roadmap** <br> *Theo Degioanni*    |
-| 10:30 | --- Coffee ---                                                                            |                          |  |  |
-| 11:00 | **Hackathon / MLIR Clinic**                                                               | **A deep dive into the RISC-V Snitch Backend**<br>*Sasha Lopoukhine*|  |
+| 11:00 | --- Coffee ---                                                                            |                          |  |  |
+| 11:300 | **Hackathon / MLIR Clinic**                                                               | **A deep dive into the RISC-V Snitch Backend**<br>*Sasha Lopoukhine*|  |
 | 12:30 | --- Lunch ---                                                                             |                          |  |  |
 | 13:30 | **Specifying peephole optimizations with PDL** <br> *Sasha Lopoukhine*                    | Expert Track & Free Hack |  |  |
 | 15:00 | --- Coffee ---                                                                            |                          |  |  |
@@ -71,8 +71,8 @@ permalink: /schedule/
 |-----: |:------------------------------------------------------------------------------------------| ------------------------ | -- | -- |
 |  9:00 | --- Arrival ---                                                                           |                          |  |  |
 |  9:30 | **Hackathon**                                                                             |                          |  |  |
-| 10:30 | --- Coffee ---                                                                            |                          |  |  |
-| 11:00 | **Hackathon**                                                                             |                          |  |  |
+| 11:00 | --- Coffee ---                                                                            |                          |  |  |
+| 11:30 | **Hackathon**                                                                             |                          |  |  |
 | 12:30 | --- Lunch ---                                                                             |                          |  |  |
 | 13:30 | **[Schedule Loop Nests with Transform](#transform)** <br> *Alex Zinenko*                                | **Software Pipelining for Kernel Code Generation** <br> *Benoît Dupont de Dinechin* |  |
 | 15:00 | --- Coffee ---                                                                            |                          |  |  |
