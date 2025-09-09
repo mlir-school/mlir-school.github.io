@@ -28,6 +28,10 @@ feature_row_org_snd:
     alt: "Mahesh Ravishankar"
     title: "M.Ravishankar"
     excerpt: "*AMD*"
+  - image_path: /images/photo_ivan.png
+    alt: "Ivan Ho"
+    title: "I.Ho"
+    excerpt: "*University of Cambridge*"
 ---
 
 *The MLIR Compiler School and Workshop is hosted by the University of Cambridge. Its organization is overseen by the steering committee. The event is supported by various international institutions and companies.*
