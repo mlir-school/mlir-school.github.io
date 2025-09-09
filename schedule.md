@@ -52,7 +52,7 @@ permalink: /schedule/
 | Time  |  MLIR Core @ Ground Floor                                                                 | Syndicate Room 1        | Syndicate Room 2 | Syndicate Room 3 |
 |-----: |:------------------------------------------------------------------------------------------| ------------------------ | -- | -- |
 |  9:00 | --- Arrival ---                                                                           |                          |  |  |
-|  9:30 | **Hackathon / MLIR Clinic**                                                               |  **Working Group for Polyhedral Model in MLIR** <br> *Guillaume Iooss* | **Transactional Compilation**<br>*Fabrice Rastello*| |
+|  9:30 | **Hackathon / MLIR Clinic**                                                               |  **Working Group for Polyhedral Model in MLIR** <br> *Guillaume Iooss* | **To compile for ML, I need an MLPlan**<br>*Fabrice Rastello*| |
 | 11:00 | --- Coffee ---                                                                            |                          |  |  |
 | 11:30 | **Hackathon / MLIR Clinic**                                                               | **A deep dive into the RISC-V Snitch Backend**<br>*Sasha Lopoukhine*| **Defining Dialects Declaratively: The IRDL Roadmap** <br> *Theo Degioanni*  |
 | 12:30 | --- Lunch ---                                                                             |                          |  |  |
