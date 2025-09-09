@@ -51,9 +51,9 @@ permalink: /schedule/
 | Time  |  MLIR Core @ Ground Floor                                                                 | Syndicate Room 1        | Syndicate Room 2 | Syndicate Room 3 |
 |-----: |:------------------------------------------------------------------------------------------| ------------------------ | -- | -- |
 |  9:00 | --- Arrival ---                                                                           |                          |  |  |
-|  9:30 | **Hackathon / MLIR Clinic**                                                               |  **Working Group for Polyhedral Model in MLIR** <br> *Guillaume Iooss* | **Transactional Compilation**<br>*Fabrice Rastello*|
+|  9:30 | **Hackathon / MLIR Clinic**                                                               |  **Working Group for Polyhedral Model in MLIR** <br> *Guillaume Iooss* | **Transactional Compilation**<br>*Fabrice Rastello*| **Defining Dialects Declaratively: The IRDL Roadmap** <br> *Theo Degioanni*    |
 | 10:30 | --- Coffee ---                                                                            |                          |  |  |
-| 11:00 | **Hackathon / MLIR Clinic**                                                               | **Defining Dialects Declaratively: The IRDL Roadmap** <br> *Theo Degioanni*    | **A deep dive into the RISC-V Snitch Backend**<br>*Sasha Lopoukhine*|  |
+| 11:00 | **Hackathon / MLIR Clinic**                                                               | **A deep dive into the RISC-V Snitch Backend**<br>*Sasha Lopoukhine*|  |
 | 12:30 | --- Lunch ---                                                                             |                          |  |  |
 | 13:30 | **Specifying peephole optimizations with PDL** <br> *Sasha Lopoukhine*                    | Expert Track & Free Hack |  |  |
 | 15:00 | --- Coffee ---                                                                            |                          |  |  |
