@@ -7,7 +7,9 @@ permalink: /schedule/
 **Note:** The MLIR (Un)School is a dynamic event → Our Schedule evolves until and throughout the MLIR (Un)School.
 {: .notice--info}
 
-## Day 1 | Monday, Sep 8
+<details>
+<summary> <h2>Day 1 | Monday, Sep 8</h2>
+</summary>
 
 | Time  | MLIR Core @ Ground Floor                                                                  | Specialized 1                              | Specialized 2                                                   | Specialized 3                                  |
 |-----: |:------------------------------------------------------------------------------------------| ----------------------------------------| -------------------------------------------------------------| --------------------------------------------|
@@ -27,7 +29,9 @@ permalink: /schedule/
 | 23:30 | Last Drinks in College Bar                                                                |                                         |                                                              |                                             |
 | 00:00 | College Bar Closes                                                                        |                                         |                                                              |                                             |
 
-## Day 2 | Tuesday, Sep 9
+</details>
+
+<h2>Day 2 | Tuesday, Sep 9</h2>
 
 | Time  |  MLIR Core @ Ground Floor                                                                 | Specialized 1                              | Specialized 2                                                   | Specialized 3                                  |
 |-----: |:------------------------------------------------------------------------------------------| ----------------------------------------| -------------------------------------------------------------| --------------------------------------------|
