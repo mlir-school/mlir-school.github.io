@@ -72,7 +72,7 @@ permalink: /schedule/
 |  9:00 | --- Arrival ---                                                                           |                          |  |  |
 |  9:30 | **Hackathon**                                                                             |                          |  |  |
 | 11:00 | --- Coffee ---                                                                            |                          |  |  |
-| 11:30 | **Hackathon / MLIR Clinic **                                                                             |                          |  |  |
+| 11:30 | **Hackathon / MLIR Clinic**                                                                             |                          |  |  |
 | 12:30 | --- Lunch ---                                                                             |                          |  |  |
 | 13:30 | **[Schedule Loop Nests with Transform](#transform)** <br> *Alex Zinenko*                                | ||
 | 15:00 | --- Coffee ---                                                                            |                          |  |  |
