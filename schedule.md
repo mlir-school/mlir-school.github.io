@@ -56,7 +56,7 @@ permalink: /schedule/
 | 11:00 | --- Coffee ---                                                                            |                          |  |  |
 | 11:30 | **Hackathon / MLIR Clinic**                                                               | **A deep dive into the RISC-V Snitch Backend**<br>*Sasha Lopoukhine*| **Defining Dialects Declaratively: The IRDL Roadmap** <br> *Theo Degioanni*  |
 | 12:30 | --- Lunch ---                                                                             |                          |  |  |
-| 13:30 | **Specifying peephole optimizations with PDL** <br> *Sasha Lopoukhine*                    | Expert Track & Free Hack |  |  |
+| 13:30 | **Hackathon** | **Specifying peephole optimizations with PDL** <br> *Sasha Lopoukhine*                    |  |  |
 | 15:00 | --- Coffee ---                                                                            |                          |  |  |
 | 15:30 | Social Event(s)                                                                           |                          |  |  |
 | 17:00 | End of day program                                                                        |                          |  |  |
