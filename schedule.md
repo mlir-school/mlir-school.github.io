@@ -48,10 +48,10 @@ permalink: /schedule/
 
 ## Day 3 | Wednesday, Sep 10                                                                        
 
-| Time  |  MLIR Core @ Ground Floor                                                                 | Specialized Track        |
+| Time  |  MLIR Core @ Ground Floor                                                                 | Syndicate Room 1        |
 |-----: |:------------------------------------------------------------------------------------------| ------------------------ |
 |  9:00 | --- Arrival ---                                                                           |                          |
-|  9:30 | **Hackathon / MLIR Clinic**                                                               |                          |
+|  9:30 | **Hackathon / MLIR Clinic**                                                               |  Working Group for Polyhedral Model in MLIR<br> *Guillaume Ioss* |
 | 10:30 | --- Coffee ---                                                                            |                          |
 | 11:00 | **Hackathon / MLIR Clinic**                                                               |                          |
 | 12:30 | --- Lunch ---                                                                             |                          |
@@ -66,14 +66,14 @@ permalink: /schedule/
 
 ## Day 4 | Thursday, Sep 11
 
-| Time  |  MLIR Core @ Ground Floor                                                                 | Specialized 1        |
+| Time  |  MLIR Core @ Ground Floor                                                                 | Syndicate Room 1        |
 |-----: |:------------------------------------------------------------------------------------------| ------------------------ |
 |  9:00 | --- Arrival ---                                                                           |                          |
 |  9:30 | **Hackathon**                                                                             |                          |
 | 10:30 | --- Coffee ---                                                                            |                          |
 | 11:00 | **Hackathon**                                                                             |                          |
 | 12:30 | --- Lunch ---                                                                             |                          |
-| 13:30 | **[Schedule Loop Nests with Transform](#transform)** <br> *Alex Zinenko*                                | **Software Pipelining for Kernel Code Generation** <br> Benoît Dupont de Dinechin |
+| 13:30 | **[Schedule Loop Nests with Transform](#transform)** <br> *Alex Zinenko*                                | **Software Pipelining for Kernel Code Generation** <br> *Benoît Dupont de Dinechin* |
 | 15:00 | --- Coffee ---                                                                            |                          |
 | 15:30 | **[Discover Low-Level MLIR Abstractions](#lowlevelabs)** <br> *Kunwar Grover*                             | Expert Track & Free Hack |
 | 17:00 | End of day program                                                                        |                          |
