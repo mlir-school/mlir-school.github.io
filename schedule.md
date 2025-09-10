@@ -58,7 +58,7 @@ permalink: /schedule/
 | 12:30 | --- Lunch ---                                                                             |                          |  |  |
 | 13:30 | **Hackathon** | **Specifying peephole optimizations with PDL** <br> *Sasha Lopoukhine*                    |  |  |
 | 15:00 | --- Coffee ---                                                                            |                          |  |  |
-| 15:35 | Social Event<br>Punting @ Punting - Start at [Mill Lane](https://www.scudamores.com/punting-mill-lane)<br>Social Event: City Tour - Start at Workshop Venue (Foyer)  |                          |  |  |
+| 15:35 | Social Events:<br>Punting @ Punting - Start at [Mill Lane](https://www.scudamores.com/punting-mill-lane)<br>City Tour - Start at Workshop Venue (Foyer)  |                          |  |  |
 | 17:00 | End of day program                                                                        |                          |  |  |
 | 18:00 | --- Dinner @ Garden Restaurant ---                                       |                          |  |  |
 | 19:00 | Open Program: e.g., hang out at College Bar                                               |                          |  |  |
