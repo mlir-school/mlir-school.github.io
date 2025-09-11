@@ -52,7 +52,7 @@ permalink: /schedule/
 | Time  |  MLIR Core @ Ground Floor                                                                 | Syndicate Room 1        | Syndicate Room 2 | Syndicate Room 3 |
 |-----: |:------------------------------------------------------------------------------------------| ------------------------ | -- | -- |
 |  9:00 | --- Arrival ---                                                                           |                          |  |  |
-|  9:30 | **Hackathon / MLIR Clinic**                                                               | [**Working Group for Polyhedral Model in MLIR**](/materials/2025_cambridge_summer_school/MLIRUS_ExpertPanelPolyhedral.pdf) <br> *Guillaume Iooss* | **To compile for ML, I need an MLPlan**<br>*Fabrice Rastello*| |
+|  9:30 | **Hackathon / MLIR Clinic**                                                               | **Working Group for Polyhedral Model in MLIR** [(pdf)](/materials/2025_cambridge_summer_school/MLIRUS_ExpertPanelPolyhedral.pdf) <br> *Guillaume Iooss* | **To compile for ML, I need an MLPlan**<br>*Fabrice Rastello*| |
 | 11:00 | --- Coffee ---                                                                            |                          |  |  |
 | 11:30 | **Hackathon / MLIR Clinic**                                                               | **Software Pipelining for Kernel Code Generation** <br> *Benoît Dupont de Dinechin*| **Defining Dialects Declaratively: The IRDL Roadmap** <br> *Theo Degioanni*  |
 | 12:30 | --- Lunch ---                                                                             |                          |  |  |
