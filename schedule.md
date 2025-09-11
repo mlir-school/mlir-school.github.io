@@ -76,7 +76,7 @@ permalink: /schedule/
 | 12:30 | --- Lunch ---                                                                             |                          |  |  |
 | 13:30 | **[Schedule Loop Nests with Transform](#transform)** <br> *Alex Zinenko*                                | ||
 | 15:00 | --- Coffee ---                                                                            |                          |  |  |
-| 15:30 | **[Discover Low-Level MLIR Abstractions](#lowlevelabs)** <br> *Kunwar Grover*                             | Expert Track & Free Hack |  |  |
+| 15:30 | **[Discover Low-Level MLIR Abstractions](#lowlevelabs)** [(collab)](https://colab.research.google.com/drive/1QYOYMSwylxpHY2IPVgGrE4jcse8Njb5s?usp=sharing#scrollTo=f4ShyvXq8Y6s) <br> *Kunwar Grover*                             | Expert Track & Free Hack |  |  |
 | 16:20 | **Gathering Feedback and Joint Closing of the (Un)School**                                                    |                          |  |  |
 | 17:00 | **End of day program**                                                    |                          |  |  |
 | 18:00 | --- Dinner @ Garden Restaurant ---                                       |                          |  |  |
@@ -147,7 +147,7 @@ MLIR features support for declaratively specifying and controlling compiler tran
 <br>
 <div style="font-size: 0.8em">
 
-<p><a id="lowlevelabs" class="anchor"><b style="font-size: 1.2em">Discover Low-Level MLIR Abstractions</b></a>, <i>Kunwar Grover</i></p>
+<p><a id="lowlevelabs" class="anchor"><b style="font-size: 1.2em">Discover Low-Level MLIR Abstractions</b> (<a href="https://colab.research.google.com/drive/1QYOYMSwylxpHY2IPVgGrE4jcse8Njb5s?usp=sharing#scrollTo=f4ShyvXq8Y6s">collab</a>)</a>, <i>Kunwar Grover</i></p>
 
 One of the best ways to learn how to use MLIR is to build a language that you
 can interact with and play around with. MLIR is "batteries included", and has
