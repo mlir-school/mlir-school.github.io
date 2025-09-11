@@ -77,7 +77,7 @@ permalink: /schedule/
 | 13:30 | **[Schedule Loop Nests with Transform](#transform)** <br> *Alex Zinenko*                                | ||
 | 15:00 | --- Coffee ---                                                                            |                          |  |  |
 | 15:30 | **[Discover Low-Level MLIR Abstractions](#lowlevelabs)** <br> *Kunwar Grover*                             | Expert Track & Free Hack |  |  |
-| 17:00 | End of day program                                                                        |                          |  |  |
+| 16:20 | **Closing**                                                    |                          |  |  |
 | 18:00 | --- Dinner @ Garden Restaurant ---                                       |                          |  |  |
 | 19:00 | Open Program / Bar                                               |                          |  |  |
 | 23:30 | Last Drinks in College Bar                                                                |                          |  |  |
