@@ -17,7 +17,7 @@ permalink: /schedule/
 | 11:00 | --- Coffee ---                                                                            |                                         |                                                              |                                             |
 | 11:30 | **Introductory sessions II** <br> Moderation: *Tobias Grosser & Alexander Viand*          |                                         |                                                              |                                             |
 | 12:30 | --- Lunch ---                                                                             |                                         |                                                              |                                             |
-| 13:30 | **[Introduction To MLIR - hands on](#intro-hands-on)** <br> *Theo Degioanni, Mathieu Fehr, Sasha Lopoukhine* | **Quantum Computing**<br> Samin Ishtiaq | **Crypto & Zero Knowledge**<br> Alexander Viand              | **Backend and ISA** <br> Fabrice Rastello & Ayal Zaks                   |
+| 13:30 | **[Introduction To MLIR - hands on](#intro-hands-on)** ([web](https://xdsl.readthedocs.io/latest/marimo/html/mlir_introduction/)) <br> *Theo Degioanni, Mathieu Fehr, Sasha Lopoukhine* | **Quantum Computing**<br> Samin Ishtiaq | **Crypto & Zero Knowledge**<br> Alexander Viand              | **Backend and ISA** <br> Fabrice Rastello & Ayal Zaks                   |
 | 15:00 | --- Coffee ---                                                                            |                                         |                                                              |                                             |
 | 15:30 | **Introduction To MLIR - deep dive** <br> *Mehdi Amini*                                   | **Formal Semantics**<br> Tobias Grosser   | **Scheduling & Search Space Exploration** <br> Alex Zinenko  | **Hardware Accelerators** <br> Kunwar Grover|
 | 17:00 | End of day program                                                                        |                                         |                                                              |                                             |
@@ -105,7 +105,7 @@ See [Open Day - MLIR (Un)School Meets Compiler Community](/open-friday).
 
 <div style="font-size: 0.8em">
 
-<p><a id="intro-hands-on" class="anchor"><b style="font-size: 1.2em">Introduction To MLIR - hands on</b></a>, <i>Sasha Lopoukhine, Mathieu Fehr, Théo Degioanni</i></p>
+<p><a id="intro-hands-on" class="anchor"><b style="font-size: 1.2em">Introduction To MLIR - hands on (<a href="https://xdsl.readthedocs.io/latest/marimo/html/mlir_introduction/">web</a>)</b></a>, <i>Sasha Lopoukhine, Mathieu Fehr, Théo Degioanni</i></p>
 This hands-on, introductory class is your perfect entry point to MLIR (Multi-Level Intermediate Representation). We will start from the ground up, demystifying what MLIR is and exploring its intermediate representation (IR) through a simple array DSL. Through a series of interactive examples, you will learn how to understand MLIR IR and apply passes to transform it. We'll demonstrate the power and benefits of defining your own MLIR dialect and progressively lower code from a high-level representation to a lower-level one. By the end of this session, you will have the keys to understand MLIR foundations, and what you could do with it in your projects.
 </div>
 
