@@ -38,7 +38,7 @@ permalink: /schedule/
 | 11:00 | --- Coffee ---                                                                            |                                         |                                                              |                                             |
 | 11:30 | **Peer-to-Peer Skillshare**                                                               |                                         |                                                              |                                             |
 | 12:30 | --- Lunch ---                                                                             |                                         |                                                              |                                             |
-| 13:30 | **[Define And Lower Your New Dialect](#define-dialects)** <br> *Sylvain Noiry*            | **Quantum Computing**<br> Samin Ishtiaq | **Crypto & Zero Knowledge**<br> Alexander Viand              | **Backend and ISA** <br> Fabrice Rastello & Ayal Zaks   |
+| 13:30 | **[Define And Lower Your New Dialect](#define-dialects)** ([web](https://github.com/mlir-school/mlir-list)) <br> *Sylvain Noiry*            | **Quantum Computing**<br> Samin Ishtiaq | **Crypto & Zero Knowledge**<br> Alexander Viand              | **Backend and ISA** <br> Fabrice Rastello & Ayal Zaks   |
 | 15:00 | --- Coffee ---                                                                            |                                         |                                                              |                                             |
 | 15:30 | **[Understanding Interfaces](#interfaces)** ([pdf](/materials/2025_cambridge_summer_school/MLIRUS_Interfaces.pdf)) <br> *Matthias Springer*                      | **Formal Semantics**<br> Tobias Grosser | **Scheduling & Search Space Exploration** <br> Alex Zinenko  | **Hardware Accelerators** <br> Kunwar Grover|
 | 17:00 | End of day program                                                                        |                                         |                                                              |                                             |
@@ -111,7 +111,7 @@ This hands-on, introductory class is your perfect entry point to MLIR (Multi-Lev
 
 <br>
 <div style="font-size: 0.8em">
-<p><a id="define-dialects" class="anchor"><b style="font-size: 1.2em">Define And Lower Your New Dialect</b></a>, <i>Sylvain Noiry</i></p>
+<p><a id="define-dialects" class="anchor"><b style="font-size: 1.2em">Define And Lower Your New Dialect (<a href="https://github.com/mlir-school/mlir-list">web</a>)</b></a>, <i>Sylvain Noiry</i></p>
 In this hands-on session, you will learn how to create the “List” dialect, introduced in the first lesson. You will practice in an out-of-tree MLIR project and develop your dialect in the standard way, without using xDSL or IRDL. This will give you an opportunity to apply the concepts learned in the previous lessons.
 
 The session is organized into multiple exercises, each exploring a different aspect of dialect creation. Every exercise comes with a README, hints, and links to the portion of the official MLIR documentation. You can progress in the exercises either with the teachers or at your own pace.
