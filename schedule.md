@@ -40,7 +40,7 @@ permalink: /schedule/
 | 12:30 | --- Lunch ---                                                                             |                                         |                                                              |                                             |
 | 13:30 | **[Define And Lower Your New Dialect](#define-dialects)** <br> *Sylvain Noiry*            | **Quantum Computing**<br> Samin Ishtiaq | **Crypto & Zero Knowledge**<br> Alexander Viand              | **Backend and ISA** <br> Fabrice Rastello & Ayal Zaks   |
 | 15:00 | --- Coffee ---                                                                            |                                         |                                                              |                                             |
-| 15:30 | **[Understanding Interfaces](#interfaces)** <br> *Matthias Springer*                      | **Formal Semantics**<br> Tobias Grosser | **Scheduling & Search Space Exploration** <br> Alex Zinenko  | **Hardware Accelerators** <br> Kunwar Grover|
+| 15:30 | **[Understanding Interfaces](#interfaces)** ([pdf](/materials/2025_cambridge_summer_school/MLIRUS_Interfaces.pdf)) <br> *Matthias Springer*                      | **Formal Semantics**<br> Tobias Grosser | **Scheduling & Search Space Exploration** <br> Alex Zinenko  | **Hardware Accelerators** <br> Kunwar Grover|
 | 17:00 | End of day program                                                                        |                                         |                                                              |                                             |
 | 18:00 | --- Dinner @ Garden Restaurant Robinson College ---                                       |                                         |                                                              |                                             |
 | 19:00 | Open Program: e.g., hang out at College Bar                                               |                                         |                                                              |                                             |             
@@ -122,7 +122,7 @@ The goal is to provide you with both the knowledge and a project template to hel
 <br>
 <div style="font-size: 0.8em">
 
-<p><a id="interfaces" class="anchor"><b style="font-size: 1.2em">Understanding Interfaces</b></a>, <i>Matthias Springer</i></p>
+<p><a id="interfaces" class="anchor"><b style="font-size: 1.2em">Understanding Interfaces (<a href="/materials/2025_cambridge_summer_school/MLIRUS_Interfaces.pdf">pdf</a>)</b></a>, <i>Matthias Springer</i></p>
 
 Interfaces are a cornerstone of extensibility and modularity in MLIR. This session covers operation interfaces, type interfaces and attribute interfaces, and how to design and implement them. The main part of the session will focus on existing core interfaces in MLIR. Attendees will gain insight into how interfaces drive analyses and transformations, improve code structure, and facilitate scalable compiler development.
 Topics Covered:
