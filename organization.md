@@ -24,10 +24,6 @@ feature_row_org_snd:
     alt: "P.Sadayappan"
     title: "P.Sadayappan"
     excerpt: "*U. of Utah*"
-  - image_path: /images/photo_mahesh.png
-    alt: "Mahesh Ravishankar"
-    title: "M.Ravishankar"
-    excerpt: "*AMD*"
   - image_path: /images/photo_ivan.png
     alt: "Ivan Ho"
     title: "I.Ho"
