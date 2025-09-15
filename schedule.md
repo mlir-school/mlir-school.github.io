@@ -161,7 +161,7 @@ programming language like Python.
 <br>
 <div style="font-size: 0.8em">
 
-<p><a id="kalray" class="anchor"><b style="font-size: 1.2em">Software Pipelining for Kernel Code Generation</b></a> (<a href="/materials/2025_cambridge_summer_school/Kalray_MLIR_School_2025.pdf>pdf</a>)", <i>Benoît Dupont de Dinechin</i></p>
+<p><a id="kalray" class="anchor"><b style="font-size: 1.2em">Software Pipelining for Kernel Code Generation</b></a> (<a href="/materials/2025_cambridge_summer_school/Kalray_MLIR_School_2025.pdf">pdf</a>)", <i>Benoît Dupont de Dinechin</i></p>
 
 Kalray has a deep learning graph compiler in production, which targets
 a manycore processor built  from VLIW cores. This Kalray graph
