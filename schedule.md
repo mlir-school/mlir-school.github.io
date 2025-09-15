@@ -54,7 +54,7 @@ permalink: /schedule/
 |  9:00 | --- Arrival ---                                                                           |                          |  |  |
 |  9:30 | **Hackathon / MLIR Clinic**                                                               | **Working Group for Polyhedral Model in MLIR** [(pdf)](/materials/2025_cambridge_summer_school/MLIRUS_ExpertPanelPolyhedral.pdf) <br> *Guillaume Iooss* | **To compile for ML, I need an MLPlan**<br>*Fabrice Rastello*| |
 | 11:00 | --- Coffee ---                                                                            |                          |  |  |
-| 11:30 | **Hackathon / MLIR Clinic**                                                               | **Software Pipelining for Kernel Code Generation** <br> *Benoît Dupont de Dinechin*| **Defining Dialects Declaratively: The IRDL Roadmap** <br> *Theo Degioanni*  |
+| 11:30 | **Hackathon / MLIR Clinic**                                                               | **Software Pipelining for Kernel Code Generation** [(pdf)](/materials/2025_cambridge_summer_school/Kalray_MLIR_School_2025.pdf)<br> *Benoît Dupont de Dinechin*| **Defining Dialects Declaratively: The IRDL Roadmap** <br> *Theo Degioanni*  |
 | 12:30 | --- Lunch ---                                                                             |                          |  |  |
 | 13:30 | **Hackathon** | **Specifying peephole optimizations with PDL** <br> *Sasha Lopoukhine*                    |  |  |
 | 15:00 | --- Coffee ---                                                                            |                          |  |  |
@@ -161,7 +161,7 @@ programming language like Python.
 <br>
 <div style="font-size: 0.8em">
 
-<p><a id="kalray" class="anchor"><b style="font-size: 1.2em">Software Pipelining for Kernel Code Generation</b></a>, <i>Benoît Dupont de Dinechin</i></p>
+<p><a id="kalray" class="anchor"><b style="font-size: 1.2em">Software Pipelining for Kernel Code Generation</b></a> (<a href="/materials/2025_cambridge_summer_school/Kalray_MLIR_School_2025.pdf>pdf</a>)", <i>Benoît Dupont de Dinechin</i></p>
 
 Kalray has a deep learning graph compiler in production, which targets
 a manycore processor built  from VLIW cores. This Kalray graph
